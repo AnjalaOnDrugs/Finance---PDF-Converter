@@ -1,0 +1,4272 @@
+IN01 Deloitte India - Management Reporting - 0L
+  
+  
+999  Unassigned
+  
+   
+
+001  Net Revenue
+     
+     
+   
+
+001.1 Service Revenue
+        
+        
+   
+
+4010 Gross Service Revenue
+           
+           
+CADT0040000010 - 0040000010 X X Engagement Service Revenue
+           
+CADT0040000030 - 0040000030 X X Administrative Resource Revenue
+           
+CADT0041100010 - 0041100010 X X ADM - Contractor Time revenue
+           
+CADT0041100070 - 0041100070 X X ADM - T&M revenue
+           
+CADT0041100100 - 0041100100 X X ADM - Blocked Headcount Revenue
+        
+        
+   
+
+4015 Internal Serv/Overhead Charged to EM
+           
+           
+CADT0040000020 - 0040000020 X X Expenses Over/ Under Recovery Revenue
+           
+CADT0040000070 - 0040000070 X X Project Close Out Unbillable Expenses Adjustment
+        
+        
+4020 Allowances - Estimated
+        
+   
+
+4025 Allowances - Adjustments
+           
+           
+CADT0040000012 - 0040000012 X X LTD WIP Adj-Engagement Service Revenue
+           
+CADT0040000014 - 0040000014 X X Credit Memo Adj-Engagement Service Revenue
+           
+CADT0040000018 - 0040000018 X X Fixed Fee Eng Service Rev Credit Memo
+           
+CADT0040000050 - 0040000050 X X Event/Success Achieved Revenue
+           
+CADT0040000060 - 0040000060 X X Project Close Out Unbillable Time Adjustment
+           
+CADT0040000062 - 0040000062 X X FF Blocked Headcount close Out Adjustment
+           
+CADT0040000063 - 0040000063 X X FF Contractor Close Out Adjustment
+           
+CADT0040000080 - 0040000080 X X Service Revenue Distribution Allocation Amount
+           
+CADT0040000090 - 0040000090 X X WIP Service Revenue Provision Adjustment
+           
+CADT0040000800 - 0040000800 X X Allowances # FI Provision #(DSA)
+           
+CADT0041000010 - 0041000010 X X Administrative Fee Surcharge Revenue
+           
+CADT0041100012 - 0041100012 X X LTD WIP Adj-ADM Contractor
+           
+CADT0041100014 - 0041100014 X X Credit Memo Adj-ADM Contractor
+           
+CADT0041100072 - 0041100072 X X LTD WIP Adj-ADM Time & Material
+           
+CADT0041100074 - 0041100074 X X Credit Memo Adj-ADM Time & Material
+           
+CADT0041100102 - 0041100102 X X LTD WIP Adj-ADM Blocked Headcount
+           
+CADT0041100104 - 0041100104 X X Credit Memo Adj-ADM Blocked Headcount
+           
+CADT0041100120 - 0041100120 X X ADM Project Close Unbillable Invoice Adjustment
+           
+CADT0041207080 - 0041207080 X X Credit Memo Asset: Assets/ Project Use
+           
+CADT0041207081 - 0041207081 X X Credit Memo Asset: Pods
+           
+CADT0041207082 - 0041207082 X X Credit Memo Asset: Managed Service
+           
+CADT0041207083 - 0041207083 X X Credit Memo Asset: Maintenance
+           
+CADT0041207084 - 0041207084 X X Credit Memo Asset: Resale/Unit Usage
+           
+CADT0041207085 - 0041207085 X X Credit Memo Asset: Direct Sale/License
+           
+CADT0041207086 - 0041207086 X X Credit Memo Asset: Subscription
+        
+        
+4029 Revenue Contingency
+        
+   
+
+4026 Internal Revenue
+           
+           
+CADT0040000801 - 0040000801 X X Allowances -FI Provision for Int Svc Revenue (DSA)
+           
+CADT0041000000 - 0041000000 X X Internal CS Time Revenue
+        
+        
+4027 Internal Revenue - Global Project
+     
+     
+   
+
+001.2 Other Revenue
+         
+         
+4040 Admin Service Revenue
+         
+4050 Direct Charges
+         
+4060 Late Charges
+         
+   
+
+4070 Product Sales
+CADT0041200010 - 0041200010 X X PRODUCT SALES
+            
+CADT0041200020 - 0041200020 X X Product Direct Sales Billing
+            
+CADT0041200040 - 0041200040 X X Product - Subscription Billing
+            
+CADT0041200060 - 0041200060 X X Product - Maintenance Revenue
+            
+CADT0041200080 - 0041200080 X X Product - Managed Services Revenue
+            
+CADT0060809000 - 0060809000 X X Software / Licenses - Prof Support Software
+         
+         
+4071 Subscription Revenue
+         
+   
+
+4080 Other Revenue
+            
+            
+CADT0041000002 - 0041000002 X X Other revenues
+            
+CADT0041005000 - 0041005000 X X GRANT A/C - REVENUE
+            
+CADT0041005050 - 0041005050 X X Other Income - Cash to accrual
+            
+CADT0063201051 - 0063201051 X X Dividend Income
+            
+CADT0064000104 - 0064000104 X X Sponsorship allowance - Clients
+            
+CADT0067804650 - 0067804650 X X Royalty Recoveries from MFs
+            
+CADT0067804750 - 0067804750 X X Royalty Fee Income
+         
+         
+4085 Royalty Income
+  
+  
+   
+
+002  Client Service Salary Costs
+     
+     
+   
+
+4101 Base Salary -Manager & Staff
+        
+        
+CADT0060000016 - 0060000016 X X EMPLOYEES SAVINGS FUND
+        
+CADT0060000145 - 0060000145 X X CSSC - [Payment] - Car Expenses
+        
+CADT0060000300 - 0060000300 X X CS - Salary
+        
+CADT0060000301 - 0060000301 X X CS - Overtime
+        
+CADT0060001900 - 0060001900 X X CSS HOUSE RENT ALLOWANCE
+        
+CADT0060001901 - 0060001901 X X CSS Stipend to CA / Mgmt Trainees
+        
+CADT0060001902 - 0060001902 X X CSS Emplyr Cont to Providen Fund - Prof
+        
+CADT0060001904 - 0060001904 X X CSS GRATUITY FUND
+        
+CADT0060001906 - 0060001906 X X CSS MEDICAL EXPENSES / OTHERS-PROF
+        
+CADT0060001907 - 0060001907 X X CSS Travel Expenses - Professional
+        
+CADT0060001908 - 0060001908 X X CSS EDUCATIONAL ALLOWANCE-PROF
+        
+CADT0060001909 - 0060001909 X X CSS MOBILE PHONE REIMBURS-PROFESSI
+        
+CADT0060001910 - 0060001910 X X CSS Transport Allowance Prof
+        
+CADT0060001915 - 0060001915 X X CSS PER DIEM ALLOWANCE
+        
+CADT0060001916 - 0060001916 X X CSS RESTAURANT FOOD COUPONS-PROF
+        
+CADT0060001917 - 0060001917 X X CSS TELEPHONE EXPS - EMPLS-PROF
+        
+CADT0060001923 - 0060001923 X X CSS PERSONAL ALLOWANCE - PROF
+        
+CADT0060001924 - 0060001924 X X CSS SPECIAL ALLOWANCE - PROF
+        
+CADT0060001926 - 0060001926 X X CSS Leave Encashment - Prof Staff
+        
+CADT0060001928 - 0060001928 X X CSS SCHOLARSHIP
+        
+CADT0060001935 - 0060001935 X X CSS SECONDMENT EXPENSES - STAFF
+        
+CADT0060001937 - 0060001937 X X CSS Specialist Skill Incentive
+        
+CADT0060001940 - 0060001940 X X CSS NATIONAL PERSION SCHEME - PROF. ST
+        
+CADT0060001941 - 0060001941 X X CSS Work from home reimbursem
+        
+CADT0060001942 - 0060001942 X X CSS Independence Deduction
+        
+CADT0060003120 - 0060003120 X X Sign-On Bonus (cs)
+        
+CADT0060004350 - 0060004350 X X Staff Secondment-Outward
+        
+CADT0060004370 - 0060004370 X X Client Service - National Pension Scheme
+        
+CADT0060005001 - 0060005001 X X Client Service - Severance
+        
+CADT0060005900 - 0060005900 X X Electronics Lease (CSS)
+        
+CADT0060009370 - 0060009370 X X Client Service - Internet Reimbursement
+        
+CADT0060009410 - 0060009410 X X Lease cars - Rental cost (CS)
+        
+CADT0064800160 - 0064800160 X X Traveling Expenses - Miscellaneous
+     
+     
+4112 Overtime
+     
+4113 Salary Credit - Compensated Absences
+     
+   
+
+4114 Contractor
+        
+        
+CADT0060001933 - 0060001933 X X CSS Expat Costs incl. reimbursement
+        
+CADT0060003013 - 0060003013 X X CS-Professional Fee
+
+4111 Total Client Service Bonuses
+        
+        
+CADT0060001921 - 0060001921 X X CSS INCENTIVE PROFESSIONAL
+        
+CADT0060003030 - 0060003030 X X Client Service - Performance Bonus
+        
+CADT0060003308 - 0060003308 X X CS-Bonus paid
+     
+     
+   
+
+4132 Insurance Expenses
+        
+        
+CADT0060001918 - 0060001918 X X CSS Insurance - GP Accident - Prof Staf
+        
+CADT0060001936 - 0060001936 X X CSS INSURANCE - LIFE
+        
+CADT0060006115 - 0060006115 X X CS-Medical insurance premiums
+     
+     
+4134 Payroll Tax Expenses
+     
+4135 Retirement
+     
+4137 Vacation and Other Time Off
+     
+4138 Other Fringe Benefits
+     
+4139 Employee Automobile Plan
+     
+4149 Client Service Manager & Staff Severance
+     
+   
+
+4871 Non-unit payment to Salaried Partners
+        
+        
+CADT0060000176 - 0060000176 X X Pass-through-NUP to Salaried partner
+     
+     
+4159 Total Other Costs - Client Service
+     
+4152 Other Compensation
+     
+4154 Salary - Active Retired Partner
+     
+4156 Salary & Other Costs - Int'l Assignments
+     
+4158 Misc. Other Client Service Salary Costs
+     
+4182 Other Charges (Credits)
+  
+  
+   
+
+003  Direct Expenses
+     
+     
+   
+
+003.1 Administrative Salary Cost
+        
+        
+   
+
+4201 Base Salary - Admin Manager & Staff
+           
+           
+CADT0060001903 - 0060001903 X X CSS Employee Deposit Insur. Scheme-Prof
+           
+CADT0060001925 - 0060001925 X X CSS DEARNESS ALLOWANCE(D.A)
+           
+CADT0060003208 - 0060003208 X X CS-Lunch allowances
+           
+CADT0060200000 - 0060200000 X X Admin - Salary
+           
+CADT0060200200 - 0060200200 X X Admin - Salary - Overtime
+           
+CADT0060200907 - 0060200907 X X Admin - [Payment] - Car Expense
+           
+CADT0060201055 - 0060201055 X X Adm-Lunch vouchers
+           
+CADT0060201800 - 0060201800 X X Admin NOTICE PAY RECOVERY - NCF
+           
+CADT0060201801 - 0060201801 X X Admin LTA EXP - NON PROFESSIONAL
+           
+CADT0060201802 - 0060201802 X X Admin MEDICAL EXP / OTHERS-NON PROF
+           
+CADT0060201803 - 0060201803 X X AdminTransport Allowance Non Prof
+           
+CADT0060201804 - 0060201804 X X Admin Emplyr Cont to Providen Fund
+           
+CADT0060201806 - 0060201806 X X Admin HOUSE RENT ALLOW-NON PROF
+           
+CADT0060201807 - 0060201807 X X Admin MOBILE PHONE REIMB-NON PROF
+           
+CADT0060201809 - 0060201809 X X Admin TELEPHONE EXPS - EMPLS-NON-PRO
+           
+CADT0060201810 - 0060201810 X X Admin Employee Deposit Insur. Scheme-NonPro
+           
+CADT0060201811 - 0060201811 X X Admin PERSONAL ALLOWANCE - NON-PROF
+           
+CADT0060201812 - 0060201812 X X Admin SPECIAL ALLOWANCE - NON-PROF
+           
+CADT0060201813 - 0060201813 X X Admin Leave Encashment - Non Prof Staff
+           
+CADT0060201815 - 0060201815 X X Admin EDUCATIONAL EXPENSES-NON PROF
+           
+CADT0060201817 - 0060201817 X X Admin Gratuity Fund
+           
+CADT0060201818 - 0060201818 X X Admin Specialist Skill Incentive
+           
+CADT0060201820 - 0060201820 X X Admin Independence Deduction
+           
+CADT0060201821 - 0060201821 X X Admin Pension Scheme
+           
+CADT0060201822 - 0060201822 X X Admin Work from home re
+           
+CADT0060201823 - 0060201823 X X Admin Notice Pay Payment
+           
+CADT0060201824 - 0060201824 X X Admin Scholarship expense
+           
+CADT0060202800 - 0060202800 X X Admin Charges for Employee Provident Fund
+           
+CADT0060202801 - 0060202801 X X Admin Charges - Employees' Deposit Linked Insuranc
+           
+CADT0060202802 - 0060202802 X X Admin Charges(EPF)-Non Prof
+CADT0060203208 - 0060203208 X X Admin-Lunch allowances
+           
+CADT0060205105 - 0060205105 X X Lease cars - Rental cost (admin)
+           
+CADT0060206200 - 0060206200 X X independence Deduction - Admin
+           
+CADT0060206201 - 0060206201 X X ELECTRONICS LEASE - Admin Staff
+           
+CADT0060208000 - 0060208000 X X Admin - Internet Reimbursement
+           
+CADT0063206500 - 0063206500 X X Sharing of Profit from DILLP
+           
+CADT0063206501 - 0063206501 X X Sharing of Profit from DLLP
+           
+CADT0063206502 - 0063206502 X X Sharing of Profit from DIGCLLP
+        
+        
+4212 Overtime
+        
+4213 Salary Credit - Compensated Absences
+        
+   
+
+4214 Contractor
+           
+           
+CADT0060201816 - 0060201816 X X Admin Expat Costs incl. reimbursement
+           
+CADT0060203117 - 0060203117 X X Admin-Other Professional Fees
+        
+        
+4215 Other
+        
+   
+
+4211 Total Administrative Bonuses
+           
+           
+CADT0060201805 - 0060201805 X X Admin Bonus - Non Prof Staff (Now
+           
+CADT0060201808 - 0060201808 X X Admin INCENTIVE - NON PROF
+           
+CADT0060203081 - 0060203081 X X Adm-Bonus paid
+        
+        
+4240 Total Administrative Fringe Benefits
+        
+   
+
+4232 Insurance Expenses
+           
+           
+CADT0060204100 - 0060204100 X X Admin - Insurance Expense
+        
+        
+4234 Payroll Tax Expenses
+        
+4235 Retirement
+        
+4236 Vacation and Other Time Off
+        
+4238 Other Fringe Benefits
+        
+4239 Employee Automobile Plan
+        
+4242 Administrative Severance Costs
+        
+4259 Total Other Costs
+        
+4254 Other Compensation
+        
+4256 Misc. Other Administrative Costs
+        
+   
+
+4282 Other Charges (Credits)
+            
+            
+CADT0060204760 - 0060204760 X X NUP to Salaried Partner (EA)
+     
+     
+   
+
+003.2 Professional & Admin Expenses
+        
+        
+   
+
+4312 Computer Leases
+           
+           
+CADT0061000120 - 0061000120 X X Laptop Rentals Short Term
+        
+        
+   
+
+4313 Computer Depreciation
+           
+           
+CADT0060800400 - 0060800400 X X Depreciation-Comp Hardware 5 yrs
+           
+CADT0067500130 - 0067500130 X X Depreciation Expense-Servers
+           
+CADT0067500216 - 0067500216 X X Depreciation - Computer Software
+           
+CADT0067502300 - 0067502300 X X Depr Exp - Telecom Equip & Software
+           
+CADT0067502400 - 0067502400 X X Depr Exp - Computers, Software & File Servers
+        
+        
+   
+
+4314 Computer Software
+           
+           
+CADT0060809001 - 0060809001 X X Software / Licenses - Other
+           
+CADT0061001160 - 0061001160 X X Hosting and Software Expense - Development
+           
+CADT0061801001 - 0061801001 X X Tech Costs - Software maintenance
+           
+CADT0062800906 - 0062800906 X X Rent - Data Center
+        
+        
+   
+
+4316 Other Computer Expenses
+           
+           
+CADT0061000300 - 0061000300 X X Computer Costs - Other
+CADT0061001000 - 0061001000 X X Computer Maintenance
+           
+CADT0064600700 - 0064600700 X X Telecom Maintenance
+        
+        
+   
+
+4332 Business Meals/Entertainment
+           
+           
+CADT0061600010 - 0061600010 X X Staff - Meals & Entertainment
+           
+CADT0061600120 - 0061600120 X X Business Meals
+           
+CADT0061600200 - 0061600200 X X Entertainment - Other
+           
+CADT0064400300 - 0064400300 X X Food & Beverage Supplies
+        
+        
+   
+
+4334 Club Dues & Memberships
+           
+           
+CADT0063804009 - 0063804009 X X Professional Activities - Club Membership Fees
+        
+        
+4336 Other Entertainment
+        
+   
+
+4354 Property & Casualty Insurance
+           
+           
+CADT0062200400 - 0062200400 X X INSURANCE-MOTOR CAR
+           
+CADT0063200500 - 0063200500 X X Insurance Expense
+        
+        
+   
+
+4374 Meetings - Facility & Meals
+           
+           
+CADT0062000002 - 0062000002 X X Firm Events - Annual Meeting
+           
+CADT0062600100 - 0062600100 X X Meeting Facility
+           
+CADT0062600150 - 0062600150 X X Meeting Expense
+           
+CADT0062600800 - 0062600800 X X SEMINAR / CONFERENCE
+           
+CADT0063202904 - 0063202904 X X CPE STUDY CIRCLE FEE - PARTNERS
+        
+        
+4376 Other Meeting Costs
+        
+   
+
+4391 Awards
+           
+           
+CADT0060003160 - 0060003160 X X Client Service - Award
+        
+        
+4392 Dues - Other Than Clubs
+        
+4393 Employment Agency/Classified
+        
+4394 License Fees
+        
+   
+
+4395 Recruiting Fees & Expense
+           
+           
+CADT0063801100 - 0063801100 X X Recruiting Expenses
+           
+CADT0063801706 - 0063801706 X X Recruitment  - advertisement
+           
+CADT0063804005 - 0063804005 X X Recruitment - Referral Awards
+           
+CADT0063804016 - 0063804016 X X Recruitment - Other Search Fees - non AMS
+        
+        
+4396 Tuition Reimbursement
+        
+4397 Taxi/Auto Allowance
+        
+   
+
+4398 Other Expenses
+           
+           
+CADT0063200810 - 0063200810 X X Membership expenses - company
+           
+CADT0063206504 - 0063206504 X X Subscription
+           
+CADT0063800211 - 0063800211 X X Gift Employee
+           
+CADT0063800500 - 0063800500 X X Dues - Other Than Clubs
+           
+CADT0063802501 - 0063802501 X X HAPPINESS EXPENSES
+        
+        
+   
+
+4384 Personnel Moving & Relocation
+           
+           
+CADT0060001914 - 0060001914 X X CSS RELOCATION EXPENSES - PROF Forei
+           
+CADT0060201814 - 0060201814 X X Admin RELOCATION EXPENSES - NON-PROF
+           
+CADT0062800100 - 0062800100 X X Moving Cost-Persoal (For Initial Fu
+           
+CADT0062800101 - 0062800101 X X Moving Cost-Disbursements
+        
+        
+4402 Advertising
+        
+4404 Client Seminars
+        
+4405 Publications
+        
+   
+
+4407 Other Marketing Expenses
+CADT0064000100 - 0064000100 X X Advertising-Promo
+           
+CADT0064000102 - 0064000102 X X Sponsorship expenses
+           
+CADT0064000306 - 0064000306 X X Advertising Exp - Other
+           
+CADT0064002000 - 0064002000 X X Marketing - Client Seminars
+           
+CADT0064002006 - 0064002006 X X Marketing - Events
+           
+CADT0064002007 - 0064002007 X X Marketing - Other
+        
+        
+4422 Legal Fees
+        
+   
+
+4424 Professional Fees
+           
+           
+CADT0062610020 - 0062610020 X X L&G - Professional Education Course Fees
+           
+CADT0063202900 - 0063202900 X X INSURANCE CLAIM RECEIVED
+           
+CADT0063202907 - 0063202907 X X Government Filing Fees
+           
+CADT0063400020 - 0063400020 X X Professional Fees-3rd Party
+           
+CADT0063400021 - 0063400021 X X Professional Fees-Deloitte (Excluding DTTL)
+           
+CADT0063400023 - 0063400023 X X Professional Fees-Temporary Contractors
+           
+CADT0063400100 - 0063400100 X X Legal Fees
+           
+CADT0063400101 - 0063400101 X X Audit Fees
+           
+CADT0063400200 - 0063400200 X X Legal Expenses
+           
+CADT0063400300 - 0063400300 X X Prof/Consult Exp
+           
+CADT0063400400 - 0063400400 X X Professional/Consulting Fees
+           
+CADT0063804006 - 0063804006 X X Professional Dues - Staff
+           
+CADT0064805001 - 0064805001 X X AUDITORS OUT OF POCKET EXPENSE
+        
+        
+   
+
+4426 Other Outside Professional Expenses
+           
+           
+CADT0041000013 - 0041000013 X X Internal Other Income
+           
+CADT0041300100 - 0041300100 X X I/C Rev
+           
+CADT0051300100 - 0051300100 X X I/C Exp
+           
+CADT0063400460 - 0063400460 X X Internal Prof/Consulting Fees & Expenses
+           
+CADT0066405011 - 0066405011 X X Shared Costs - Services
+           
+CADT0067808700 - 0067808700 X X Shared Service Expenses
+        
+        
+4433 License, Excise & Business Taxes
+        
+4434 Penalties Taxes
+        
+4435 Property Taxes
+        
+4437 Foreign Taxes
+        
+   
+
+4438 Miscellaneous Taxes
+           
+           
+CADT0064200135 - 0064200135 X X Taxes expense related to VAT or GST
+           
+CADT0064200400 - 0064200400 X X Taxes - Licensing, Excise & Business taxes
+           
+CADT0064200800 - 0064200800 X X Taxes - Miscellaneous
+           
+CADT0064204000 - 0064204000 X X Taxes - Firm Professional Tax
+        
+        
+   
+
+4452 Telephone
+           
+           
+CADT0060001912 - 0060001912 X X CSS Telephone expense Sr Director
+           
+CADT0063800051 - 0063800051 X X Mobile phone and internet costs
+           
+CADT0064600100 - 0064600100 X X Telephone-Business
+           
+CADT0064600400 - 0064600400 X X Cellular Phone/PDA
+        
+        
+4454 Voicemail
+        
+   
+
+4456 Network
+           
+           
+CADT0064604000 - 0064604000 X X Internet Charges
+        
+        
+4458 DTT GWAN Charges
+        
+   
+
+4462 Transportation
+           
+           
+CADT0060001919 - 0060001919 X X CSS Foreign Travel - Insurance
+           
+CADT0060008820 - 0060008820 X X Client Service - EM Vehicle & Transport Expenses
+           
+CADT0063801360 - 0063801360 X X Mileage
+           
+CADT0063807700 - 0063807700 X X Taxi / Auto Allowance
+           
+CADT0063808100 - 0063808100 X X Passport / Visa Fees & Expenses
+           
+CADT0064800010 - 0064800010 X X Overseas Travelling Expenses - Airline
+CADT0064800070 - 0064800070 X X Overseas Travelling Expenses - Per Diem
+           
+CADT0064800100 - 0064800100 X X Traveling Expenses - Airline
+           
+CADT0064800120 - 0064800120 X X Traveling Expenses - Rental Car
+           
+CADT0064800180 - 0064800180 X X Traveling Expenses -Other Ground Transportation
+           
+CADT0064800182 - 0064800182 X X Travelling Expns - Other Ground Transportation - I
+           
+CADT0064800800 - 0064800800 X X Travel Expenses - Domestic
+           
+CADT0064800801 - 0064800801 X X Travel Expenses - Overseas
+           
+CADT0064801480 - 0064801480 X X Travelling Expenses - Per Diem
+           
+CADT0064803700 - 0064803700 X X Overseas Travel Exp - Miscellaneous
+           
+CADT0064805000 - 0064805000 X X Transport - Office Client Office
+           
+CADT0064805050 - 0064805050 X X Local Conveyance -Home-Client-Office
+           
+CADT0064805051 - 0064805051 X X Local Conveyance-Home-Client-Home
+        
+        
+   
+
+4464 Accommodation
+           
+           
+CADT0064800050 - 0064800050 X X Overseas Travelling Expenses - Hotel
+           
+CADT0064800140 - 0064800140 X X Traveling Expenses - Hotel
+           
+CADT0064803701 - 0064803701 X X Travelling Expenses - Guest House
+        
+        
+   
+
+4466 Meals
+           
+           
+CADT0063801400 - 0063801400 X X Meals - Overtime
+           
+CADT0064800162 - 0064800162 X X Traveling Expenses - Meals
+           
+CADT0064801520 - 0064801520 X X Travelling Expenses - Meals Unallow
+        
+        
+   
+
+4468 Other
+           
+           
+CADT0063801370 - 0063801370 X X Other staff expenses
+           
+CADT0064804001 - 0064804001 X X Other Travel Expenses - Partner
+           
+CADT0064805002 - 0064805002 X X Travel Exp - Travel insurance
+        
+        
+   
+
+4472 Training Execution & Delivery
+           
+           
+CADT0062605600 - 0062605600 X X Participant Training
+           
+CADT0062605601 - 0062605601 X X Participant Training-Third Party
+           
+CADT0062610000 - 0062610000 X X Learning & Growth Expenses
+           
+CADT0062610200 - 0062610200 X X Training Execution & Delivery
+        
+        
+   
+
+4474 Training Development
+           
+           
+CADT0062610101 - 0062610101 X X Training - Other Internal
+        
+        
+   
+
+4304 Books & Publications
+           
+           
+CADT0060600100 - 0060600100 X X Books & Publications
+        
+        
+4324 Donations
+        
+4344 Office Equipment
+        
+   
+
+4364 Postage & Courier
+           
+           
+CADT0062400150 - 0062400150 X X Postage - Courier
+           
+CADT0062401000 - 0062401000 X X Postage - Courier
+        
+        
+   
+
+4444 Office Supplies
+           
+           
+CADT0064400100 - 0064400100 X X Office Supplies
+           
+CADT0064400402 - 0064400402 X X Office Supplies
+        
+        
+   
+
+4446 Printing & Copying
+           
+           
+CADT0064400200 - 0064400200 X X Printing & Copying
+           
+CADT0064400310 - 0064400310 X X Photocopy Charges - RC's
+           
+CADT0064401000 - 0064401000 X X Printing & Copying Supplies
+           
+CADT0064401003 - 0064401003 X X Copier - Paper Cost
+4493 Select Direct Technology Charges
+        
+   
+
+4414 Miscellaneous Expenses
+           
+           
+CADT0041003035 - 0041003035 X X Sundry Income
+           
+CADT0060001920 - 0060001920 X X CSS Bank Service Charges
+           
+CADT0061401200 - 0061401200 X X Donations-Business
+           
+CADT0062610019 - 0062610019 X X L&G - Professional Education Exam Fees
+           
+CADT0063200840 - 0063200840 X X Gifts to Others
+           
+CADT0063201204 - 0063201204 X X Miscellaneous Exp - Other (Exp)
+           
+CADT0063201212 - 0063201212 X X Miscellaneous Income - Non-Partner
+           
+CADT0063202901 - 0063202901 X X Customs clearing & forwarding exp
+           
+CADT0063202902 - 0063202902 X X IMPACT DAY EXPENSES
+           
+CADT0063202903 - 0063202903 X X CORPORATE SOCIAL RESPONSIBILITY
+           
+CADT0063202905 - 0063202905 X X BROKERAGE EXPENSES
+           
+CADT0063202906 - 0063202906 X X TENDER FEES
+           
+CADT0063202908 - 0063202908 X X DEPOSIT WRITE OFF
+           
+CADT0063205000 - 0063205000 X X Miscellaneous Exp
+           
+CADT0063206503 - 0063206503 X X Compensation For Use Of Office Assets
+           
+CADT0063206505 - 0063206505 X X Prov. for Deposit Written Off
+           
+CADT0063207403 - 0063207403 X X Rounding Differences
+           
+CADT0063802500 - 0063802500 X X STAFF HEALTH CHECKUP EXPENSES
+           
+CADT0064206000 - 0064206000 X X Provision for TDS Write Off Expense
+           
+CADT0067804760 - 0067804760 X X Royalty Fee Expense
+        
+        
+   
+
+4416 Miscellaneous (Income)
+            
+            
+CADT0063204990 - 0063204990 X X Miscellaneous Income
+            
+CADT0063205070 - 0063205070 X X Miscellaneous Non Operating Expense
+     
+     
+   
+
+003.3 Other Operating Expenses
+        
+        
+4601 Interest on Receivables
+        
+   
+
+4604 Provision for Bad Debts
+           
+           
+CADT0063202909 - 0063202909 X X Withholding Tax Benefit write off
+           
+CADT0067000010 - 0067000010 X X Bad Debts Written Off
+           
+CADT0067000100 - 0067000100 X X Prov for Bad Debts
+           
+CADT0067000300 - 0067000300 X X Provision for Bad Debts
+        
+        
+4721 Claims & Related Costs
+        
+4722 Internal Costs for Claims and Litigation
+        
+   
+
+4723 National P.I. Insurance Costs
+           
+           
+CADT0062200010 - 0062200010 X X Insurance - Professional Indemnity
+        
+        
+4724 Global P.I. Insurance Costs
+        
+4725 Other Insurance Costs
+        
+4791 Acquisition Goodwill Costs
+        
+4792 Accounts Other Miscel Cost
+        
+4714 Service Lines
+        
+4716 Market & Industry Sectors
+        
+4718 Other Development Activities
+        
+4742 Firm Meetings
+        
+4744 Firm Management
+        
+   
+
+4746 Projects
+           
+           
+CADT0060401600 - 0060401600 X X Firm Projects - Salary Credit - Other Professional
+           
+CADT0060401900 - 0060401900 X X Firm Projects - Salary Credit - Exempt
+           
+CADT0060402200 - 0060402200 X X Firm Projects - Salary Credit - BH
+           
+CADT0060402500 - 0060402500 X X Firm Projects - Salary Credit - Contractor
+           
+CADT0060402900 - 0060402900 X X Firm Projects - Salary Credit - ODC
+           
+CADT0069000100 - 0069000100 X X Firm Projects - Salaries
+           
+CADT0069000150 - 0069000150 X X Firm Projects - Salaries - Admin
+           
+CADT0069000200 - 0069000200 X X Firm Projects - Salaries - BH
+           
+CADT0069000500 - 0069000500 X X Firm Projects - Salaries - Contractor
+CADT0069000900 - 0069000900 X X Firm Projects - Salaries - ODC
+           
+CADT0069001000 - 0069001000 X X Firm Projects - Books & Publications
+           
+CADT0069001100 - 0069001100 X X Firm Projects - Computer Costs
+           
+CADT0069001200 - 0069001200 X X Firm Projects - Entertainment
+           
+CADT0069001210 - 0069001210 X X Firm Projects - Entertainment FBT
+           
+CADT0069001220 - 0069001220 X X Firm Projects - Entertainment GST
+           
+CADT0069001400 - 0069001400 X X Firm Projects - Mailing
+           
+CADT0069001500 - 0069001500 X X Firm Projects-Meetings & Conferences
+           
+CADT0069001600 - 0069001600 X X Firm Projects - Relocation
+           
+CADT0069001700 - 0069001700 X X Firm Projects - Training Expense
+           
+CADT0069002000 - 0069002000 X X Firm Projects - Other Expenses
+           
+CADT0069002100 - 0069002100 X X Firm Projects - Outside Services
+           
+CADT0069002140 - 0069002140 X X Firm Projects - Internal Service Fees
+           
+CADT0069002200 - 0069002200 X X Firm Projects - Personnel Expense
+           
+CADT0069002210 - 0069002210 X X Firm Projects - Personnel FBT
+           
+CADT0069002300 - 0069002300 X X Firm Projects - Advertising & Marketing
+           
+CADT0069002410 - 0069002410 X X Firm Projects - Interest Expense
+           
+CADT0069002500 - 0069002500 X X Firm Projects - Office Supplies
+           
+CADT0069002600 - 0069002600 X X Firm Projects - Telecommunications
+           
+CADT0069002700 - 0069002700 X X Firm Projects - Airline
+           
+CADT0069002720 - 0069002720 X X Firm Projects - Rental Car
+           
+CADT0069002740 - 0069002740 X X Firm Projects - Hotel
+           
+CADT0069002760 - 0069002760 X X Firm Projects - Miscellaneous
+           
+CADT0069002800 - 0069002800 X X Firm Projects - Meals
+           
+CADT0069002900 - 0069002900 X X Firm Projects - Donations
+        
+        
+4797 Seconded Partner Income/(Cost)
+     
+     
+   
+
+003.4 Other Business Direct Operating Expenses
+         
+         
+4651 Business Direct Ocupancy Expenses
+         
+4652 Business Direct Foreign Excha(gain)/loss
+         
+4653 Business Direct Partner Retirement Cost
+         
+4654 Other Business Direct Operating Expenses
+         
+4660 Total Other Business Direct Operating Ex
+  
+  
+   
+
+004  Controlled Expenses
+     
+     
+   
+
+004.1 Occupancy Expenses
+         
+         
+   
+
+4504 Rent
+            
+            
+CADT0066000102 - 0066000102 X X Rental Income
+            
+CADT0066001100 - 0066001100 X X Rent - Office
+            
+CADT0066001107 - 0066001107 X X Taxes #Dues - Property Tax
+         
+         
+4519 Total Facilities Operating Expenses
+         
+   
+
+4512 Rent - Non Office Space
+            
+            
+CADT0060210440 - 0060210440 X X Rent - House - Partner
+            
+CADT0061800100 - 0061800100 X X Rent-Office Equipment
+            
+CADT0066000200 - 0066000200 X X Rent - Non Office Space
+            
+CADT0066001000 - 0066001000 X X Rent - Furniture
+            
+CADT0066007009 - 0066007009 X X Rental charges - Other
+         
+         
+   
+
+4513 Facility Operations
+            
+            
+CADT0060001905 - 0060001905 X X CSS STAFF WELFARE EXPENSES
+            
+CADT0060003297 - 0060003297 X X Client Service - Benefits Utilised - Car Recovery
+            
+CADT0063200503 - 0063200503 X X Security Services
+            
+CADT0063800100 - 0063800100 X X Cafeteria Costs
+            
+CADT0066000260 - 0066000260 X X Rent - Office Space Parking
+            
+CADT0066003900 - 0066003900 X X Office Expenses - Facility Operations
+            
+CADT0066003901 - 0066003901 X X Maintenance - Premises
+4514 Real Estate Taxes
+         
+   
+
+4515 Repairs & Maintenance
+            
+            
+CADT0061800300 - 0061800300 X X Equipment Repair & Maintenance
+            
+CADT0066000500 - 0066000500 X X Repairs/Operations
+            
+CADT0066000823 - 0066000823 X X Other car costs - Cars Maintenance
+            
+CADT0066003902 - 0066003902 X X R & M - PREMISES
+            
+CADT0066003903 - 0066003903 X X R & M - Others
+            
+CADT0066003904 - 0066003904 X X R & M - Electrical Equip
+            
+CADT0066003905 - 0066003905 X X R & M - Leased Premises
+            
+CADT0069300009 - 0069300009 X X Recoveries - Repairs
+         
+         
+   
+
+4516 Office Relocation
+            
+            
+CADT0066000700 - 0066000700 X X Office Moving
+         
+         
+   
+
+4517 Utilities
+            
+            
+CADT0060001922 - 0060001922 X X CSS STAFF RESIDENTIAL FLAT EXPENSE
+            
+CADT0060001934 - 0060001934 X X CSS Utilities reimbursement Sr Director
+            
+CADT0066000600 - 0066000600 X X Utilities
+            
+CADT0066000602 - 0066000602 X X Utilities Cleaning
+            
+CADT0066000603 - 0066000603 X X Utilities Electricity
+         
+         
+4529 Total Depreciation & Amortization
+         
+   
+
+4522 Depreciation - Furniture & Equipment
+            
+            
+CADT0067500110 - 0067500110 X X Depr - Low Value Other
+            
+CADT0067500208 - 0067500208 X X Depreciation - Electrical Fixtures & Fittings
+            
+CADT0067500215 - 0067500215 X X Depreciation - Laptop & Desktop
+            
+CADT0067502100 - 0067502100 X X Depreciation - Furniture
+            
+CADT0067502101 - 0067502101 X X Depr Exp - Furniture & Fixtures - System
+            
+CADT0067502200 - 0067502200 X X Depr Exp - Office Equipment
+            
+CADT0067502600 - 0067502600 X X Depr Exp - Automobiles
+            
+CADT0067504001 - 0067504001 X X Depreciation - Non Compete Fees
+         
+         
+   
+
+4524 Amortization - Leasehold Improvements
+            
+            
+CADT0063203000 - 0063203000 X X Gain/Loss On Sale Of Fixed Assets
+            
+CADT0063203001 - 0063203001 X X Loss On Sale Of Fixed Assets
+            
+CADT0063203002 - 0063203002 X X Gain On Sale Of Fixed Assets
+            
+CADT0067400004 - 0067400004 X X Amortization - Patents and trademarks
+            
+CADT0067502500 - 0067502500 X X Depr Exp - Real Property, Leasehold, Bldg & Land
+            
+CADT0067502550 - 0067502550 X X Depr Exp - Building and Land Improvements
+            
+CADT0067503000 - 0067503000 X X AMMORTISATION OF# NON COMPETE FEES
+         
+         
+   
+
+4526 Depreciation - Buildings
+            
+            
+CADT0067500900 - 0067500900 X X Depreciation - Building
+         
+         
+4527 Depreciation - Land Improvements
+         
+4528 Amortization - Abandoned Office
+         
+4544 Real Estate Financing
+         
+4581 Business Allocation of Occupancy Expense
+         
+4599 Total Occupancy Expenses
+         
+   
+
+4315 DTT Technology Charges
+            
+            
+CADT0060804500 - 0060804500 X X RECOVERY OF LICENSE FEES
+            
+CADT0061000250 - 0061000250 X X DTT Tech Charges- Computer Cloud
+            
+CADT0061000251 - 0061000251 X X DTT Tech Charges- Telecom
+            
+CADT0061000420 - 0061000420 X X DTTL Technology Charge
+            
+CADT0061000422 - 0061000422 X X DTTL Software Charge
+            
+CADT0061000601 - 0061000601 X X Pass-through-DTTL Technology Charge
+            
+CADT0061000604 - 0061000604 X X Pass-through-DTTL Charges
+            
+CADT0061200001 - 0061200001 X X DTTL Charges
+4752 Select Controlled Technology Charges
+         
+   
+
+4754 DTT Subscription Fees
+            
+            
+CADT0067804000 - 0067804000 X X International Service Fees
+         
+         
+4755 MF Combination and Cooperation Fees
+         
+   
+
+4756 Business Allocation of IT Cost
+            
+            
+CADT0068202440 - 0068202440 X X Alloc Occ IT-FIG
+         
+         
+4759 Total Controlled Expenses
+         
+4760 Controlled Profit
+  
+  
+   
+
+005  Non Operating Expenses
+     
+     
+   
+
+4769 Total Interest Expense - net
+        
+        
+   
+
+4762 Interest Expense - External Lenders
+           
+           
+CADT0040404000 - 0040404000 X X Discount - Prompt Payment
+           
+CADT0063202910 - 0063202910 X X Other Penalties Paid
+           
+CADT0064200502 - 0064200502 X X Taxes & Dues - Revenue Stamp
+           
+CADT0064204001 - 0064204001 X X Securities Transaction Tax (STT)
+           
+CADT0068000400 - 0068000400 X X Int Exp-Other
+           
+CADT0068002110 - 0068002110 X X Interest on straight loans
+           
+CADT0068003000 - 0068003000 X X Bank Charges, Interest and penalties (National)
+           
+CADT0068003012 - 0068003012 X X Bank Interest
+           
+CADT0068004500 - 0068004500 X X INTEREST ON GST
+           
+CADT0068004503 - 0068004503 X X INTEREST ON SELF #ASSESSMENT TAX
+        
+        
+   
+
+4766 Interest (Income)
+            
+            
+CADT0041003024 - 0041003024 X X Interest Income
+            
+CADT0067901300 - 0067901300 X X Interest Income-Other
+            
+CADT0067901400 - 0067901400 X X Interest Income Bank
+            
+CADT0067903600 - 0067903600 X X Interest Income - Tax Refund
+            
+CADT0067903601 - 0067903601 X X Interest Income - Fixed Deposit
+            
+CADT0067903602 - 0067903602 X X GAIN ON MUTUAL FUND REDEMPTION
+            
+CADT0067903603 - 0067903603 X X SHORT TERM GAIN ON EQUITY ORIENT
+            
+CADT0067903604 - 0067903604 X X UNREALISED MTM GAIN ON MUTUAL FUND
+     
+     
+4771 Interest on Voluntary Contribution
+     
+   
+
+4772 Foreign Exchange (Gain)/Loss
+        
+        
+CADT0010119000 - 0010119000 X X Bank FX Adjustment
+        
+CADT0010128291 - 0010128291 X X Deloitte LLP - HSBC Hdg Sell -FX Valuation Account
+        
+CADT0010128292 - 0010128292 X X Deloitte LLP - HSBC Hdg Buy - FX Valuation Account
+        
+CADT0010128391 - 0010128391 X X Deloitte LLP - Brclys HdgSell-FX Valuation Account
+        
+CADT0010128392 - 0010128392 X X Deloitte LLP - Brclys Hdg Buy-FX Valuation Account
+        
+CADT0010129000 - 0010129000 X X FX Gains/Losses on Hedging
+        
+CADT0012909000 - 0012909000 X X AR - Intercompany FX Adjustment
+        
+CADT0012910501 - 0012910501 X X AR Inter Firm Aligned FX Valuation Adjustment
+        
+CADT0012919000 - 0012919000 X X AR - Interfirm FX Adjustment
+        
+CADT0013200004 - 0013200004 X X Other AR - Miscellaneous - FX Adjustment
+        
+CADT0013200510 - 0013200510 X X Other Foreign Currency Valuation
+        
+CADT0013209000 - 0013209000 X X Other Assets - FX Adjustment
+        
+CADT0014004499 - 0014004499 X X Prepayments FX Valuation Adjustment
+        
+CADT0040009000 - 0040009000 X X Engagement FX Gain
+        
+CADT0040009001 - 0040009001 X X Engagement FX Loss
+        
+CADT0040009002 - 0040009002 X X FX Risk Sharing G/L
+        
+CADT0068210000 - 0068210000 X X Realized Foreign Exchange Gain
+        
+CADT0068210001 - 0068210001 X X Realized Foreign Exchange Loss
+        
+CADT0068210002 - 0068210002 X X Unrealized Foreign Exchange Gain
+        
+CADT0068210003 - 0068210003 X X Unrealized Foreign Exchange Loss
+CADT0068210006 - 0068210006 X X Realized External AR FX Gains
+        
+CADT0068210007 - 0068210007 X X Realized External AR FX Losses
+        
+CADT0068210008 - 0068210008 X X Realized Interfirm AR FX Gains
+        
+CADT0068210009 - 0068210009 X X Realized Interfirm AR FX Losses
+        
+CADT0068210010 - 0068210010 X X Realized External AP FX Gains
+        
+CADT0068210011 - 0068210011 X X Realized External AP FX Losses
+        
+CADT0068210012 - 0068210012 X X Realized Interfirm AP FX Gains
+        
+CADT0068210013 - 0068210013 X X Realized Interfirm AP FX Losses
+        
+CADT0068210014 - 0068210014 X X Realized Intercompany / JV operating FX Gains
+        
+CADT0068210015 - 0068210015 X X Realized Intercompany / JV operating FX Losses
+        
+CADT0068210016 - 0068210016 X X Realized Cash and cash equivalents FX Gains
+        
+CADT0068210017 - 0068210017 X X Realized Cash and cash equivalents FX Losses
+        
+CADT0068210018 - 0068210018 X X Realized Accruals & Provisions FX Gains
+        
+CADT0068210019 - 0068210019 X X Realized Accruals & Provisions FX Losses
+        
+CADT0068210020 - 0068210020 X X Realized Other Debtors & Creditors FX Gains
+        
+CADT0068210021 - 0068210021 X X Realized Other Debtors & Creditors FX Losses
+        
+CADT0068210022 - 0068210022 X X Realized Intercompany / JV Loans FX Gains
+        
+CADT0068210023 - 0068210023 X X Realized Intercompany / JV Loans FX Losses
+        
+CADT0068210024 - 0068210024 X X Realized Debt FX Gains
+        
+CADT0068210025 - 0068210025 X X Realized Debt FX Losses
+        
+CADT0068210106 - 0068210106 X X Realized Cash Equivalents for Hedging FX Gains
+        
+CADT0068210107 - 0068210107 X X Realized Cash Equivalents for Hedging FX Losses
+        
+CADT0068210420 - 0068210420 X X Monetary Item FX Translation Gains
+        
+CADT0068210520 - 0068210520 X X Monetary Item FX Translation Losses
+        
+CADT0068212000 - 0068212000 X X Foreign Exchange Gain/Loss
+        
+CADT0068212110 - 0068212110 X X Unrealized External AR FX Gains
+        
+CADT0068212111 - 0068212111 X X Unrealized External AR FX Losses
+        
+CADT0068212112 - 0068212112 X X Unrealized Interfirm AR FX Gains
+        
+CADT0068212113 - 0068212113 X X Unrealized Interfirm AR FX Losses
+        
+CADT0068212114 - 0068212114 X X Unrealized External AP FX Gains
+        
+CADT0068212115 - 0068212115 X X Unrealized External AP FX Losses
+        
+CADT0068212116 - 0068212116 X X Unrealized Interfirm AP FX Gains
+        
+CADT0068212117 - 0068212117 X X Unrealized Interfirm AP FX Losses
+        
+CADT0068212118 - 0068212118 X X Unrealized Intercompany / JV operating FX Gains
+        
+CADT0068212119 - 0068212119 X X Unrealized Intercompany / JV operating FX Losses
+        
+CADT0068212120 - 0068212120 X X Unrealized Cash and cash equivalents FX Gains
+        
+CADT0068212121 - 0068212121 X X Unrealized Cash and cash equivalents FX Losses
+        
+CADT0068212122 - 0068212122 X X Unrealized Accruals & Provisions FX Gains
+        
+CADT0068212123 - 0068212123 X X Unrealized Accruals & Provisions FX Losses
+        
+CADT0068212124 - 0068212124 X X Unrealized Other Debtors & Creditors FX Gains
+        
+CADT0068212125 - 0068212125 X X Unrealized Other Debtors & Creditors FX Losses
+        
+CADT0068212128 - 0068212128 X X Unrealized Cash Equivalents for Hedging FX Gains
+        
+CADT0068212129 - 0068212129 X X Unrealized Cash Equivalents for Hedging FX Losses
+        
+CADT0068212210 - 0068212210 X X Unrealized Intercompany / JV Loans FX Gains
+        
+CADT0068212211 - 0068212211 X X Unrealized Intercompany / JV Loans FX Losses
+        
+CADT0068212212 - 0068212212 X X Unrealized Debt FX Gains
+        
+CADT0068212213 - 0068212213 X X Unrealized Debt FX Losses
+        
+CADT0069300091 - 0069300091 X X Other Operating Expenses FX adj translate
+     
+     
+4775 Minority Interest in Earnings of Cons
+     
+4796 Invest Income&Gain/(Loss) Global Invest
+     
+4777 Royalty Expense
+     
+4779 Total Other Non Operating Costs
+     
+4774 (Gain)/Loss on Sale of Assets
+     
+   
+
+4776 Other Costs
+        
+        
+CADT0063502100 - 0063502100 X X DIMINUTION IN VALUE OF INVESTMENTS
+        
+CADT0068204020 - 0068204020 X X Other Non-Op Cost reclass - FIG
+     
+     
+4789 Total Non Operating Expenses
+  
+  
+   
+
+006  Allocations
+     
+     
+4790A Allocation of Information Technology
+     
+4790B Allocation of Talent / Human Resources
+4790C Allocation of Finance Support
+     
+4790M Allocation of Marketing/Client & Indust
+     
+4790E Allocation of Business Opert/Office Se
+     
+4790H Allocation of Quality Risk & Regulatory
+     
+4790I Allocation of OGC / Legal
+     
+4790L Allocation of Executive & Management/St
+     
+   
+
+4790K Allocation of Other Firmwide
+        
+        
+CADT0080020220 - 0080020220 X X Allocations-Other-Shared
+     
+     
+4790  Total Allocation for Business Accountab
+     
+4799C Planned Contingency
+     
+4800  Global Net Earnings
+  
+  
+   
+
+007  National Adjustments
+     
+     
+4811 Shared Earning/Revenue Payments
+     
+   
+
+4812 Non Unit Payment to Equity Partner
+        
+        
+CADT0060001911 - 0060001911 X X CSS Salary Sr Director
+        
+CADT0060001913 - 0060001913 X X CSS Incentive Acct Sr Director
+        
+CADT0060001927 - 0060001927 X X CSS Car Exps  Sr Director
+        
+CADT0060001929 - 0060001929 X X CSS HRA SR.DIRECTORS
+        
+CADT0060001930 - 0060001930 X X CSS Per Allowance Sr Director
+        
+CADT0060001931 - 0060001931 X X CSS Special Allowance Sr Director
+        
+CADT0060001932 - 0060001932 X X CSS Lease rental Sr Director
+        
+CADT0060001938 - 0060001938 X X CSS Special Incentive Sr Director
+        
+CADT0060001939 - 0060001939 X X CSS Retention Incentive Sr Director
+        
+CADT0060210180 - 0060210180 X X Pass-through-NUP to Equity partner
+        
+CADT0060210600 - 0060210600 X X Independence Deductions - Partners
+        
+CADT0060210601 - 0060210601 X X REMUNERATION TO PARTNER
+        
+CADT0062808000 - 0062808000 X X Partner - Relocation Costs
+     
+     
+   
+
+4813 Partner Retirement
+        
+        
+CADT0063201010 - 0063201010 X X Pension Payments - Retired Partner
+        
+CADT0066606730 - 0066606730 X X OW ALLOCS PTR PENSION - PQP
+     
+     
+4814 Partner Benefits
+     
+   
+
+4816 Corporate Taxes
+        
+        
+CADT0064200203 - 0064200203 X X Withholding tax on dividends
+        
+CADT0064200205 - 0064200205 X X Provision for Corporate Income Tax
+        
+CADT0064200251 - 0064200251 X X Taxes from previous years
+     
+     
+4817 GAAP Adjustments
+     
+4818 Invest(Income & Gain)/Loss from Excluded
+     
+   
+
+4819 Interest Paid to Partners
+        
+        
+CADT0068004501 - 0068004501 X X INTEREST ON DEPOSIT RECEIVED FROM
+        
+CADT0068004502 - 0068004502 X X Partner Interest on Capital
+     
+     
+   
+
+4831 National Adjustment 1
+        
+        
+CADT0066500006 - 0066500006 X X Dividends
+     
+     
+4832 National Adjustment 2
+     
+4833 National Adjustment 3
+     
+4834 National Adjustment 4
+     
+4838 Other National Adjustments
+     
+4839 Total National Adjustments
+  
+  
+   
+
+008  Locally Recognized
+     
+     
+4899 Locally Recognized Net Earnings
+
+009  Statistics
+     
+     
+   
+
+009.1 Expenses Billed to Clients
+         
+         
+4991 Subcontractors
+         
+4992 Charges from Other Member Firms
+         
+4996 Other
+         
+4999 Total Expenses Billed to Clients
+  
+  
+   
+
+010  Current Assets
+     
+     
+   
+
+1020 Cash @ Bank
+        
+        
+CADT0010000000 - 0010000000 X X Petty Cash #1
+        
+CADT0010000001 - 0010000001 X X Revenue G/L Account_AU
+        
+CADT0010133300 - 0010133300 X X BOB-MUM .0380200001793 M
+        
+CADT0010133301 - 0010133301 X X BOB-MUM .0380200001793 P
+        
+CADT0010133302 - 0010133302 X X BOB-MUM 0380200001793 R
+        
+CADT0010133310 - 0010133310 X X RBL-MUM 409000850992 C/A M
+        
+CADT0010133311 - 0010133311 X X RBL-MUM 409000850992 C/A P
+        
+CADT0010133312 - 0010133312 X X RBL-MUM 409000850992 C/A R
+        
+CADT0010133320 - 0010133320 X X BOB-MUM-03820200001910-C/A-M
+        
+CADT0010133321 - 0010133321 X X BOB-MUM-03820200001910-C/A-P
+        
+CADT0010133322 - 0010133322 X X BOB-MUM-03820200001910-C/A-R
+        
+CADT0010133330 - 0010133330 X X RBL-MUM-409001090407-C/A-DGFA M
+        
+CADT0010133331 - 0010133331 X X RBL-MUM-409001090407-C/A-DGFA P
+        
+CADT0010133332 - 0010133332 X X RBL-MUM-409001090407-C/A-DGFA R
+        
+CADT0010133340 - 0010133340 X X BOB-MUM-03820200001853 -DEWT M
+        
+CADT0010133341 - 0010133341 X X BOB-MUM-03820200001853 -DEWT P
+        
+CADT0010133342 - 0010133342 X X BOB-MUM-03820200001853 -DEWT R
+        
+CADT0010133350 - 0010133350 X X BOB-MUM-03820200000138-C/A-DTTIPL M
+        
+CADT0010133351 - 0010133351 X X BOB-MUM-03820200000138-C/A-DTTIPL P
+        
+CADT0010133352 - 0010133352 X X BOB-MUM-03820200000138-C/A-DTTIPL R
+        
+CADT0010133360 - 0010133360 X X HSBC-012-288643-001-M
+        
+CADT0010133361 - 0010133361 X X HSBC-012-288643-001-P
+        
+CADT0010133362 - 0010133362 X X HSBC-012-288643-001-R
+        
+CADT0010133370 - 0010133370 X X HSBC-031-020605-001-M
+        
+CADT0010133371 - 0010133371 X X HSBC-031-020605-001-P
+        
+CADT0010133372 - 0010133372 X X HSBC-031-020605-001-R
+        
+CADT0010133380 - 0010133380 X X SUNRISE BANK LTD.-00210141759013-C/A-M
+        
+CADT0010133381 - 0010133381 X X SUNRISE BANK LTD.-00210141759013-C/A-P
+        
+CADT0010133382 - 0010133382 X X SUNRISE BANK LTD.-00210141759013-C/A-R
+        
+CADT0010133390 - 0010133390 X X EASTERN BANK-1051070150650-C/A-M
+        
+CADT0010133391 - 0010133391 X X EASTERN BANK-1051070150650-C/A-P
+        
+CADT0010133392 - 0010133392 X X EASTERN BANK-1051070150650-C/A-R
+        
+CADT0010133400 - 0010133400 X X BOB-MUM-03820200002015 -M
+        
+CADT0010133401 - 0010133401 X X BOB-MUM-03820200002015 -P
+        
+CADT0010133402 - 0010133402 X X BOB-MUM-03820200002015 -R
+        
+CADT0010133410 - 0010133410 X X SBI-MUM-35637279637- C/A - M
+        
+CADT0010133411 - 0010133411 X X SBI-MUM-35637279637- C/A - P
+        
+CADT0010133412 - 0010133412 X X SBI-MUM-35637279637- C/A - R
+        
+CADT0010133420 - 0010133420 X X RBL-MUM-409000448450-CAEFC-USD-M
+        
+CADT0010133421 - 0010133421 X X RBL-MUM-409000448450-CAEFC-USD-P
+        
+CADT0010133422 - 0010133422 X X RBL-MUM-409000448450-CAEFC-USD-R
+        
+CADT0010133430 - 0010133430 X X BRAC BANK - 1501203539305001- C/A-M
+        
+CADT0010133431 - 0010133431 X X BRAC BANK - 1501203539305001- C/A-P
+        
+CADT0010133432 - 0010133432 X X BRAC BANK - 1501203539305001- C/A-R
+        
+CADT0010133440 - 0010133440 X X SBI-USD-25160685620001-M
+        
+CADT0010133441 - 0010133441 X X SBI-USD-25160685620001-P
+        
+CADT0010133442 - 0010133442 X X SBI-USD-25160685620001-R
+        
+CADT0010133450 - 0010133450 X X HSBC-BD HSBC 001-002732-011 C/A M
+        
+CADT0010133451 - 0010133451 X X HSBC-BD HSBC 001-002732-011 C/A P
+        
+CADT0010133452 - 0010133452 X X HSBC-BD HSBC 001-002732-011 C/A R
+        
+CADT0010133460 - 0010133460 X X PRABHU BANK-NPR-10150837300015-M
+CADT0010133461 - 0010133461 X X PRABHU BANK-NPR-10150837300015-P
+        
+CADT0010133462 - 0010133462 X X PRABHU BANK-NPR-10150837300015-R
+        
+CADT0010133470 - 0010133470 X X HSBC-MUM-012-322475-001 -C/A-M
+        
+CADT0010133471 - 0010133471 X X HSBC-MUM-012-322475-001 -C/A-P
+        
+CADT0010133472 - 0010133472 X X HSBC-MUM-012-322475-001 -C/A-R
+        
+CADT0010133520 - 0010133520 X X RATNAKAR-DEL-409000078499-C/A-M
+        
+CADT0010133521 - 0010133521 X X RATNAKAR-DEL-409000078499-C/A-P
+        
+CADT0010133522 - 0010133522 X X RATNAKAR-DEL-409000078499-C/A-R
+        
+CADT0010133530 - 0010133530 X X RATNAKAR-BAN-409000077478-C/A M
+        
+CADT0010133531 - 0010133531 X X RATNAKAR-BAN-409000077478-C/A P
+        
+CADT0010133532 - 0010133532 X X RATNAKAR-BAN-409000077478-C/A R
+        
+CADT0010133540 - 0010133540 X X RATNAKAR-AHM-409000084865-C/A-M
+        
+CADT0010133541 - 0010133541 X X RATNAKAR-AHM-409000084865-C/A-P
+        
+CADT0010133542 - 0010133542 X X RATNAKAR-AHM-409000084865-C/A-R
+        
+CADT0010133550 - 0010133550 X X RATNAKAR-KOL-409000082724-C/A-M
+        
+CADT0010133551 - 0010133551 X X RATNAKAR-KOL-409000082724-C/A-P
+        
+CADT0010133552 - 0010133552 X X RATNAKAR-KOL-409000082724-C/A-R
+        
+CADT0010133560 - 0010133560 X X RATNAKAR-CHE-409000077461-C/A-M
+        
+CADT0010133561 - 0010133561 X X RATNAKAR-CHE-409000077461-C/A-P
+        
+CADT0010133562 - 0010133562 X X RATNAKAR-CHE-409000077461-C/A-R
+        
+CADT0010133570 - 0010133570 X X RATNAKAR-MUM-409000252978-C/A-M
+        
+CADT0010133571 - 0010133571 X X RATNAKAR-MUM-409000252978-C/A-P
+        
+CADT0010133572 - 0010133572 X X RATNAKAR-MUM-409000252978-C/A-R
+        
+CADT0010133580 - 0010133580 X X PMT-RBL-MUM-409000444393-CAEFC-USD-M
+        
+CADT0010133581 - 0010133581 X X PMT-RBL-MUM-409000444393-CAEFC-USD-P
+        
+CADT0010133582 - 0010133582 X X PMT-RBL-MUM-409000444393-CAEFC-USD-R
+        
+CADT0010133590 - 0010133590 X X BOB-MUM-03820200002039-C/A-M
+        
+CADT0010133591 - 0010133591 X X BOB-MUM-03820200002039-C/A-P
+        
+CADT0010133592 - 0010133592 X X BOB-MUM-03820200002039-C/A-R
+        
+CADT0010133600 - 0010133600 X X ANZ-MUM-003000099837-C/A-M
+        
+CADT0010133601 - 0010133601 X X ANZ-MUM-003000099837-C/A-P
+        
+CADT0010133602 - 0010133602 X X ANZ-MUM-003000099837-C/A-R
+        
+CADT0010133610 - 0010133610 X X BOB-MUM-03820200002062-C/A-M
+        
+CADT0010133611 - 0010133611 X X BOB-MUM-03820200002062-C/A-P
+        
+CADT0010133612 - 0010133612 X X BOB-MUM-03820200002062-C/A-R
+        
+CADT0010133620 - 0010133620 X X RBL-MUM 409001027328 C/A M
+        
+CADT0010133621 - 0010133621 X X RBL-MUM 409001027328 C/A P
+        
+CADT0010133622 - 0010133622 X X RBL-MUM 409001027328 C/A R
+        
+CADT0010133630 - 0010133630 X X RBL-MUM 409001495868 C/A M
+        
+CADT0010133631 - 0010133631 X X RBL-MUM 409001495868 C/A P
+        
+CADT0010133632 - 0010133632 X X RBL-MUM 409001495868 C/A R
+        
+CADT0010133640 - 0010133640 X X ANZ-MUM-003000101561 - M
+        
+CADT0010133641 - 0010133641 X X ANZ-MUM-003000101561 - P
+        
+CADT0010133642 - 0010133642 X X ANZ-MUM-003000101561 - R
+        
+CADT0010133650 - 0010133650 X X STANCHART-MUM-22205016568-C/A-M
+        
+CADT0010133651 - 0010133651 X X STANCHART-MUM-22205016568-C/A-P
+        
+CADT0010133652 - 0010133652 X X STANCHART-MUM-22205016568-C/A-R
+        
+CADT0010133660 - 0010133660 X X BOB-MUM-03820200002190-C/A-M
+        
+CADT0010133661 - 0010133661 X X BOB-MUM-03820200002190-C/A-P
+        
+CADT0010133662 - 0010133662 X X BOB-MUM-03820200002190-C/A-R
+        
+CADT0010133670 - 0010133670 X X STANCHART-MUM-23105007204-C/A-M
+        
+CADT0010133671 - 0010133671 X X STANCHART-MUM-23105007204-C/A-P
+        
+CADT0010133672 - 0010133672 X X STANCHART-MUM-23105007204-C/A-R
+        
+CADT0010133680 - 0010133680 X X BOB-MUM-03820200002198-C/A-M
+        
+CADT0010133681 - 0010133681 X X BOB-MUM-03820200002198-C/A-P
+        
+CADT0010133682 - 0010133682 X X BOB-MUM-03820200002198-C/A-R
+        
+CADT0010133690 - 0010133690 X X IDBI-BAR-0142023034300-C/A-M
+        
+CADT0010133691 - 0010133691 X X IDBI-BAR-0142023034300-C/A-P
+        
+CADT0010133692 - 0010133692 X X IDBI-BAR-0142023034300-C/A-R
+        
+CADT0010133710 - 0010133710 X X BOB C/A NO.17730200000153M
+        
+CADT0010133711 - 0010133711 X X BOB C/A NO.17730200000153P
+        
+CADT0010133712 - 0010133712 X X BOB C/A NO.17730200000153R
+        
+CADT0010133720 - 0010133720 X X BOB-AHM-03410200000255-C/A-M
+        
+CADT0010133721 - 0010133721 X X BOB-AHM-03410200000255-C/A-P
+        
+CADT0010133722 - 0010133722 X X BOB-AHM-03410200000255-C/A-R
+CADT0010133730 - 0010133730 X X BOB-MUM-03820200000210-C/A-M
+        
+CADT0010133731 - 0010133731 X X BOB-MUM-03820200000210-C/A-P
+        
+CADT0010133732 - 0010133732 X X BOB-MUM-03820200000210-C/A-R
+        
+CADT0010133770 - 0010133770 X X BOB - DEL - 30290200000361- C/A -M
+        
+CADT0010133771 - 0010133771 X X BOB - DEL - 30290200000361- C/A -P
+        
+CADT0010133772 - 0010133772 X X BOB - DEL - 30290200000361- C/A -R
+        
+CADT0010133800 - 0010133800 X X BOB-MUM-03820200001616-C/A-M
+        
+CADT0010133801 - 0010133801 X X BOB-MUM-03820200001616-C/A-P
+        
+CADT0010133802 - 0010133802 X X BOB-MUM-03820200001616-C/A-R
+        
+CADT0010133810 - 0010133810 X X ANZ-MUM-003000035494-C/A-M
+        
+CADT0010133811 - 0010133811 X X ANZ-MUM-003000035494-C/A-P
+        
+CADT0010133812 - 0010133812 X X ANZ-MUM-003000035494-C/A-R
+        
+CADT0010133820 - 0010133820 X X RBL-MUM-409000797198-EEFC-USD-M
+        
+CADT0010133821 - 0010133821 X X RBL-MUM-409000797198-EEFC-USD-P
+        
+CADT0010133822 - 0010133822 X X RBL-MUM-409000797198-EEFC-USD-R
+        
+CADT0010133830 - 0010133830 X X BOM-MUM-20045005292-C/A-M
+        
+CADT0010133831 - 0010133831 X X BOM-MUM-20045005292-C/A-P
+        
+CADT0010133832 - 0010133832 X X BOM-MUM-20045005292-C/A-R
+        
+CADT0010133840 - 0010133840 X X ANZ-MUM-003000048362-C/A-M
+        
+CADT0010133841 - 0010133841 X X ANZ-MUM-003000048362-C/A-P
+        
+CADT0010133842 - 0010133842 X X ANZ-MUM-003000048362-C/A-R
+        
+CADT0010133870 - 0010133870 X X CITI-MUM-0547347013-CC-M
+        
+CADT0010133871 - 0010133871 X X CITI-MUM-0547347013-CC-P
+        
+CADT0010133872 - 0010133872 X X CITI-MUM-0547347013-CC-R
+        
+CADT0010133900 - 0010133900 X X BOB-MUM-03820200001895-C/A-M
+        
+CADT0010133901 - 0010133901 X X BOB-MUM-03820200001895-C/A-P
+        
+CADT0010133902 - 0010133902 X X BOB-MUM-03820200001895-C/A-R
+        
+CADT0010133910 - 0010133910 X X INDIAN BANK-400382799M
+        
+CADT0010133911 - 0010133911 X X INDIAN BANK-400382799P
+        
+CADT0010133912 - 0010133912 X X INDIAN BANK-400382799R
+        
+CADT0010133920 - 0010133920 X X SBM-BAN-54017991127-C/A-M
+        
+CADT0010133921 - 0010133921 X X SBM-BAN-54017991127-C/A-P
+        
+CADT0010133922 - 0010133922 X X SBM-BAN-54017991127-C/A-R
+        
+CADT0010133930 - 0010133930 X X BOB-MUM 03820200002127 C/A M
+        
+CADT0010133931 - 0010133931 X X BOB-MUM 03820200002127 C/A P
+        
+CADT0010133932 - 0010133932 X X BOB-MUM 03820200002127 C/A R
+        
+CADT0010133940 - 0010133940 X X UCO 30200268374M
+        
+CADT0010133941 - 0010133941 X X UCO 30200268374P
+        
+CADT0010133942 - 0010133942 X X UCO 30200268374R
+        
+CADT0010133950 - 0010133950 X X BOB-MUM-03820200002188-C/A-M
+        
+CADT0010133951 - 0010133951 X X BOB-MUM-03820200002188-C/A-P
+        
+CADT0010133952 - 0010133952 X X BOB-MUM-03820200002188-C/A-R
+        
+CADT0010133960 - 0010133960 X X CBI 1787416802 M
+        
+CADT0010133961 - 0010133961 X X CBI 1787416802 P
+        
+CADT0010133962 - 0010133962 X X CBI 1787416802 R
+        
+CADT0010133970 - 0010133970 X X CBI- CCA/C # D95-1787428943- M
+        
+CADT0010133971 - 0010133971 X X CBI- CCA/C # D95-1787428943- P
+        
+CADT0010133972 - 0010133972 X X CBI- CCA/C # D95-1787428943- R
+        
+CADT0010133980 - 0010133980 X X BOB 3820200000293 M
+        
+CADT0010133981 - 0010133981 X X BOB 3820200000293 P
+        
+CADT0010133982 - 0010133982 X X BOB 3820200000293 R
+        
+CADT0010134450 - 0010134450 X X HDFC Bank Limited 57500001498009 M
+        
+CADT0010134451 - 0010134451 X X HDFC-57500001498009 P
+        
+CADT0010134452 - 0010134452 X X HDFC-57500001498009 R
+        
+CADT0010134460 - 0010134460 X X HDFC-57500001496591 M
+        
+CADT0010134461 - 0010134461 X X HDFC-57500001496591 P
+        
+CADT0010134462 - 0010134462 X X HDFC-57500001496591 R
+        
+CADT0010134470 - 0010134470 X X HDFC-57500001498278 M
+        
+CADT0010134471 - 0010134471 X X HDFC-57500001498278 P
+        
+CADT0010134472 - 0010134472 X X HDFC-57500001498278 R
+        
+CADT0010135600 - 0010135600 X X SBI-LKR-25160685620002
+        
+CADT0010135601 - 0010135601 X X SBI-LKR-25160685620002 Out
+        
+CADT0010135602 - 0010135602 X X SBI-LKR-25160685620002-In
+        
+CADT0010135620 - 0010135620 X X Indian Bank-400382813-C/A-
+        
+CADT0010135621 - 0010135621 X X Indian Bank-400382813-C/A- Out
+CADT0010135622 - 0010135622 X X Indian Bank-400382813-C/A-In
+        
+CADT0010135630 - 0010135630 X X UBI-327301010372842-C/A-
+        
+CADT0010135631 - 0010135631 X X UBI
+327301010372842-C/A- Out
+        
+CADT0010135632 - 0010135632 X X UBI-327301010372842-C/A-In
+        
+CADT0010135640 - 0010135640 X X BOB-06910200000431-C/A
+        
+CADT0010135641 - 0010135641 X X BOB-06910200000431-C/A-Out
+        
+CADT0010135642 - 0010135642 X X BOB
+06910200000431-C/A-In
+        
+CADT0010135710 - 0010135710 X X SBI-241220266216 M
+        
+CADT0010135711 - 0010135711 X X SBI-241220266216-C/A- Out
+        
+CADT0010135712 - 0010135712 X X SBI-241220266216-C/A- In
+        
+CADT0011000001 - 0011000001 X X Term deposit
+        
+CADT0013200500 - 0013200500 X X Other AR - Miscellaneous
+        
+CADT0014601711 - 0014601711 X X Other Advances - Other
+        
+CADT0018000701 - 0018000701 X X INVESTMENT IN LIC MF LIQUID FUND-DIRECT-GROWTH
+        
+CADT0018000702 - 0018000702 X X INVESTMENT IN ICICI PRU LIQUID FUND-DIRECT-GROWTH
+        
+CADT0018000703 - 0018000703 X X INVESTMENT IN ICICI PRU OVERNIGHT FUND-DIR-GROWTH
+        
+CADT0018000704 - 0018000704 X X INVST IN ICICI PRU ULTRA SHORT TERM FUND-DIR-GRWTH
+        
+CADT0018000705 - 0018000705 X X INVESTMENT IN ICICI PRU SHORT TERM FUND-DIR-GRWTH
+        
+CADT0018000706 - 0018000706 X X INVESTMENT IN SBI LIQUID FUND-DIRECT-GROWTH
+        
+CADT0018000707 - 0018000707 X X INVESTMENT IN SBI OVERNIGHT FUND-DIRECT-GROWTH
+        
+CADT0018000708 - 0018000708 X X INVESTMENT IN SBI ULTRA SHORT TERM FUND-DIR-GROWTH
+        
+CADT0018000709 - 0018000709 X X INVESTMENT IN SBI SHORT TERM FUND-DIRECT-GROWTH
+        
+CADT0018000710 - 0018000710 X X INVESTMENT IN KOTAK LIQUID FUND-DIRECT-GROWTH
+        
+CADT0018000711 - 0018000711 X X INVESTMENT IN KOTAK OVERNIGHT FUND-DIRECT-GROWTH
+        
+CADT0018000712 - 0018000712 X X INVEST IN KOTAK LOW DURATION FUND-DIRECT-GRWTH
+        
+CADT0018000713 - 0018000713 X X INVEST IN KOTAK BOND SHORT TERM FUND-DIRECT-GRWTH
+        
+CADT0018000714 - 0018000714 X X INVESTMENT IN IDFC Cash Fund -DIRECT-GROWTH
+        
+CADT0018000715 - 0018000715 X X INVESTMENT IN IDFC OVERNIGHT FUND-DIRECT-GROWTH
+        
+CADT0018000716 - 0018000716 X X INVEST IN IDFC ULTRA SHORT TERM FUND -DIRECT-GRWTH
+        
+CADT0018000717 - 0018000717 X X INVEST IN IDFC BOND FUND - SHORT TERM -DIRECT-GRWT
+        
+CADT0018000718 - 0018000718 X X INVESTMENT IN HDFC LIQUID FUND -DIRECT-GROWTH
+        
+CADT0018000719 - 0018000719 X X INVESTMENT IN HDFC OVERNIGHT FUND-DIRECT-GROWTH
+        
+CADT0018000720 - 0018000720 X X INVEST IN HDFC SHORT TERMDEBT FUND -DIRECT-GRWTH
+        
+CADT0018000721 - 0018000721 X X INVESTMENT IN HDFC ARBITRAGE FUND DIR-GROWTH
+        
+CADT0018000722 - 0018000722 X X INVESTMENT IN ICICI EQ - ARBITRAGE FUND DIR-GR
+        
+CADT0018000723 - 0018000723 X X INVESTMENT IN IDFC ARBITRAGE FUND DIR-GROWTH
+        
+CADT0018000724 - 0018000724 X X INVESTMENT IN KOTAK EQ ARBITRAGE FUND DIR-GROWTH
+        
+CADT0018000725 - 0018000725 X X INVESTMENT IN SBI ARBITRAGE FUND DIR-GROWTH
+        
+CADT0018000726 - 0018000726 X X INVESTMENT IN HDFC HYBRID DEBT FUND DIR-GROWTH
+        
+CADT0018000727 - 0018000727 X X INVESTMENT IN ICICI REGULAR SAVINGS FUND DIR-GR
+        
+CADT0018000728 - 0018000728 X X INVESTMENT IN IDFC REGULAR SAVINGS FUND DIR-GR
+        
+CADT0018000729 - 0018000729 X X INVESTMENT IN KOTAK DEBT HYBRID FUND DIR-GROWTH
+        
+CADT0018000730 - 0018000730 X X INVESTMENT IN SBI DEBT HYBRID FUND DIR-GROWTH
+        
+CADT0018000731 - 0018000731 X X CHILD EDUCATION ENDOWMENT FUND # ICICI MF
+        
+CADT0018000732 - 0018000732 X X INVESTMENT IN ICICI PRU ARBITRAGE FUND
+        
+CADT0018006509 - 0018006509 X X Fixed Deposit - Margin Money
+     
+     
+   
+
+1038 Client Receivables Billed:
+        
+        
+CADT0012000000 - 0012000000 X X Billed Receivables
+        
+CADT0012100000 - 0012100000 X X Reserve for Bad Debt
+        
+CADT0012106000 - 0012106000 X X Reserve for Bad Debt Manual
+        
+CADT0024400021 - 0024400021 X X Other Payables - Customer
+     
+     
+1039 Allowance for Uncollectible
+     
+   
+
+1040 Work in Progress:
+        
+        
+   
+
+1045 Gross
+           
+           
+CADT0012200010 - 0012200010 X X WIP Time
+           
+CADT0012200012 - 0012200012 X X Fixed Fee WIP
+           
+CADT0012200020 - 0012200020 X X WIP Expense
+           
+CADT0012200022 - 0012200022 X X Fixed Fee Expense WIP
+           
+CADT0012200030 - 0012200030 X X WIP ADM
+           
+CADT0012200035 - 0012200035 X X WIP ADM Expense
+CADT0012200040 - 0012200040 X X WIP Product Expense
+           
+CADT0012200050 - 0012200050 X X WIP Event / Success Achieved
+           
+CADT0012200060 - 0012200060 X X WIP Accrual
+           
+CADT0012200070 - 0012200070 X X WIP Advanced Billing
+           
+CADT0012200080 - 0012200080 X X WIP Revenue Provision
+           
+CADT0012200700 - 0012200700 X X WIP Reserves
+           
+CADT0012200820 - 0012200820 X X WIP Asset: Assets/Project Use Fees
+           
+CADT0012200821 - 0012200821 X X WIP Asset: Pods
+           
+CADT0012200822 - 0012200822 X X WIP Asset: Managed Service
+           
+CADT0012200823 - 0012200823 X X WIP Asset: Maintenance
+           
+CADT0012200824 - 0012200824 X X WIP Asset: Resale/Unit Usage
+           
+CADT0012200825 - 0012200825 X X WIP Asset: Direct Sale/License
+           
+CADT0012200826 - 0012200826 X X WIP Asset: Subscription
+           
+CADT0012204500 - 0012204500 X X WIP Manual Provision (DSA)
+           
+CADT0012204501 - 0012204501 X X WIP Manual Provision-Int Svc Revenue (DSA)
+           
+CADT0012207501 - 0012207501 X X Recoverable Engagement Disbursements
+           
+CADT0012209000 - 0012209000 X X WIP FX Adjustment Revaluation
+           
+CADT0012900002 - 0012900002 X X AR Accrual - Intercompany Manual
+           
+CADT0012909901 - 0012909901 X X WIP Time Intercompany Offset
+           
+CADT0012909902 - 0012909902 X X WIP Expense Intercompany Offset
+           
+CADT0012909903 - 0012909903 X X WIP ADM Offset
+           
+CADT0012909905 - 0012909905 X X WIP Event / Success Achieved - Offset
+           
+CADT0012909907 - 0012909907 X X WIP Fixed Fee Intercompany Offset
+           
+CADT0066605203 - 0066605203 X X WIP Expense Transfers
+        
+        
+1048 Allowance for Unbillable
+     
+     
+   
+
+1041 Interfirm Receivables/(Payables) - Net
+        
+        
+   
+
+1055 DTT Member Firms
+           
+           
+CADT0012009000 - 0012009000 X X AR FX Adjustment- Revaluation
+           
+CADT0013008000 - 0013008000 X X AR International Receivables
+           
+CADT0023008001 - 0023008001 X X AP - Other
+        
+        
+   
+
+1057 DTT Verein (NY)
+            
+            
+CADT0012920120 - 0012920120 X X DTT Verein Clearing A/c
+            
+CADT0012929000 - 0012929000 X X AR Billed - DTTL Global Foreign Currency Revaluati
+            
+CADT0023910006 - 0023910006 X X Foreign Currency Deloitte Others
+     
+     
+   
+
+1070 Pre-paid Expenses & Deposits
+        
+        
+CADT0014000200 - 0014000200 X X Prepaid Rent
+        
+CADT0014000863 - 0014000863 X X Prepaid Insurance Expenses
+        
+CADT0014001106 - 0014001106 X X Prepaid Expenses - Other
+        
+CADT0014001900 - 0014001900 X X Prepaid GST
+        
+CADT0014009000 - 0014009000 X X Prepaid Computer Lease - Revaluation
+        
+CADT0014009001 - 0014009001 X X Revaluation Prepaid
+        
+CADT0014609500 - 0014609500 X X Revaluation - Other Current Assets
+        
+CADT0018400500 - 0018400500 X X EARNEST MONEY DEPOSIT - Manual
+        
+CADT0018400501 - 0018400501 X X DEPOSIT - ELECTRICITY
+        
+CADT0018400502 - 0018400502 X X DEPOSIT- TELEPHONES
+        
+CADT0018400503 - 0018400503 X X DEPOSIT - RENT (PREMISES)
+        
+CADT0018400506 - 0018400506 X X DEPOSITS- RWITC/TURF CLUB
+        
+CADT0018400507 - 0018400507 X X DEPOSIT  -  SERVICE  TAX
+        
+CADT0018400508 - 0018400508 X X EARNEST MONEY DEPOSIT
+        
+CADT0024401306 - 0024401306 X X PROVISION FOR DEPOSIT WRITE OFF
+        
+CADT0024406000 - 0024406000 X X Provision for TDS Write Off
+     
+     
+1071 Prepaid Professional Insurance
+     
+   
+
+1090 Other Current Assets
+        
+        
+CADT0012900000 - 0012900000 X X AR Billed - Intercompany Control
+        
+CADT0012900001 - 0012900001 X X AR Billed - Intercompany Manual
+CADT0012910000 - 0012910000 X X AR Billed - Other Interfirm Control
+        
+CADT0012910001 - 0012910001 X X AR Billed - Other Interfirm Manual
+        
+CADT0012910509 - 0012910509 X X Statutory Accounts - InterFirm AR Adjustment
+        
+CADT0013202010 - 0013202010 X X Personal Loans
+        
+CADT0013202300 - 0013202300 X X Staff Loan medical
+        
+CADT0013202301 - 0013202301 X X Staff Loan housing
+        
+CADT0014000100 - 0014000100 X X Prepaid Expenses - Miscellaneous
+        
+CADT0014003010 - 0014003010 X X Advance Income Tax - India 2012-13
+        
+CADT0014003020 - 0014003020 X X Advance Income Tax - India 2013-14
+        
+CADT0014003030 - 0014003030 X X Advance Income Tax - India 2014-15
+        
+CADT0014003040 - 0014003040 X X Advance Income Tax - India 2015-16
+        
+CADT0014003050 - 0014003050 X X Advance Income Tax - India 2016-17
+        
+CADT0014003060 - 0014003060 X X Advance Income Tax-India 2017-18
+        
+CADT0014003070 - 0014003070 X X Advance Income Tax-India 2018-19
+        
+CADT0014003080 - 0014003080 X X Advance Income Tax-India 2019-20
+        
+CADT0014003081 - 0014003081 X X Advance Income Tax-India 2020-21
+        
+CADT0014003082 - 0014003082 X X Advance Income Tax-India 2021-22
+        
+CADT0014003083 - 0014003083 X X Advance Income Tax-India 2022-23
+        
+CADT0014003084 - 0014003084 X X Advance Income Tax-India 2023-24
+        
+CADT0014003200 - 0014003200 X X Prepaid Fringe Benefit Tax - India
+        
+CADT0014400130 - 0014400130 X X Advance to Staff-Others
+        
+CADT0014400131 - 0014400131 X X Advance - Salary
+        
+CADT0014400500 - 0014400500 X X Employee Loan
+        
+CADT0014407000 - 0014407000 X X International Expense Advances
+        
+CADT0014407890 - 0014407890 X X Staff advances
+        
+CADT0014409100 - 0014409100 X X Other AR - Travel Advances
+        
+CADT0014600101 - 0014600101 X X Accrued Income
+        
+CADT0014608700 - 0014608700 X X Old Full & Final Recovery
+        
+CADT0014609940 - 0014609940 X X Payroll Document - Clearing
+        
+CADT0014900001 - 0014900001 X X VAT - Input / Receivable
+        
+CADT0014900010 - 0014900010 X X Withholding tax receivable
+        
+CADT0014900100 - 0014900100 X X Deferred Tax In Non-Zero
+        
+CADT0014900601 - 0014900601 X X ADVANCE TAX - NEPAL
+        
+CADT0014900897 - 0014900897 X X TDS - INTEREST ON FD
+        
+CADT0014900898 - 0014900898 X X TDS - INT ON FD AY 2007-08
+        
+CADT0014900899 - 0014900899 X X TDS - INT ON FD AY 2008-09
+        
+CADT0014900900 - 0014900900 X X TDS - INT ON FD AY 2009-10
+        
+CADT0014900901 - 0014900901 X X TDS - INT ON FD A.Y 2010-11
+        
+CADT0014900902 - 0014900902 X X TDS - INT ON FD A.Y 2011-12
+        
+CADT0014900903 - 0014900903 X X TDS - INT ON FD A.Y 2012-13
+        
+CADT0014900904 - 0014900904 X X TDS - INT ON FD A.Y 2013-14
+        
+CADT0014900905 - 0014900905 X X TDS - INT ON FD A.Y 2014-15
+        
+CADT0014900906 - 0014900906 X X TDS - INT ON FD A.Y 2015-16
+        
+CADT0014900907 - 0014900907 X X TDS - INT ON FD A.Y 2016-17
+        
+CADT0014900908 - 0014900908 X X TDS - INT ON FD A.Y 2017-18
+        
+CADT0014900909 - 0014900909 X X TDS - INT ON FD A.Y 2018-19
+        
+CADT0014900910 - 0014900910 X X TDS - INT ON FD A.Y 2019-20
+        
+CADT0014900911 - 0014900911 X X TDS - INT ON FD A.Y 2020-21
+        
+CADT0014900912 - 0014900912 X X TDS - INT ON FD A.Y 2021-22
+        
+CADT0014900913 - 0014900913 X X TDS - INT ON FD A.Y 2022-23
+        
+CADT0014900914 - 0014900914 X X TDS - INT ON FD A.Y 2023-24
+        
+CADT0014900915 - 0014900915 X X TDS-PROFESSIONAL FEE CLIENTS
+        
+CADT0014900916 - 0014900916 X X TDS-PROF. FEES CLIENTS AY 2002-03
+        
+CADT0014900917 - 0014900917 X X TDS-PROF. FEES CLIENTS AY 2003-04
+        
+CADT0014900918 - 0014900918 X X TDS-PROF. FEES CLIENTS AY 2004-05
+        
+CADT0014900919 - 0014900919 X X TDS-PROF. FEES CLIENTS AY 2005-06
+        
+CADT0014900920 - 0014900920 X X TDS-PROF. FEES CLIENTS AY 2006-07
+        
+CADT0014900921 - 0014900921 X X TDS-PROF. FEES CLIENTS AY 2007-08
+        
+CADT0014900922 - 0014900922 X X TDS-PROF. FEES CLIENTS AY 2008-09
+        
+CADT0014900923 - 0014900923 X X TDS-PROF. FEES CLIENTS AY 2009-10
+        
+CADT0014900924 - 0014900924 X X TDS-PROF. FEES CLIENTS AY 2010-11
+        
+CADT0014900925 - 0014900925 X X TDS-PROF. FEES CLIENTS AY 1998-99
+        
+CADT0014900926 - 0014900926 X X TDS ON FD INTEREST A.Y.2008-09
+        
+CADT0014900927 - 0014900927 X X TDS-PFEE CLIENT A.Y.2008-09(M)
+        
+CADT0014900928 - 0014900928 X X TDS-PROF. FEES CLIENTS AY 2011-12
+CADT0014900929 - 0014900929 X X TDS-Client-AY-2011-12 (3%) DHS-B
+        
+CADT0014900930 - 0014900930 X X TDS-Client-AY-2011-12 (3.39%) DHS-M#
+        
+CADT0014900931 - 0014900931 X X TDS-PROF. FEES CLIENTS AY 2012-13
+        
+CADT0014900932 - 0014900932 X X TDS-PROF. FEES CLIENTS AY 2013-14
+        
+CADT0014900933 - 0014900933 X X TDS-PROF. FEES CLIENTS AY 2014-15
+        
+CADT0014900934 - 0014900934 X X TDS-PROF. FEES CLIENTS AY 2015-16
+        
+CADT0014900935 - 0014900935 X X TDS-PROF. FEES CLIENTS AY 2016-17
+        
+CADT0014900936 - 0014900936 X X TDS-PROF. FEES CLIENTS AY 2017-18
+        
+CADT0014900937 - 0014900937 X X TDS-PROF. FEES CLIENTS AY 2018-19
+        
+CADT0014900938 - 0014900938 X X TDS-PROF. FEES CLIENTS AY 2019-20
+        
+CADT0014900939 - 0014900939 X X TDS-PROF. FEES CLIENTS AY 2020-21
+        
+CADT0014900940 - 0014900940 X X TDS-PROF. FEES CLIENTS AY 2021-22
+        
+CADT0014900941 - 0014900941 X X TDS-PROF. FEES CLIENTS AY 2022-23
+        
+CADT0014900942 - 0014900942 X X TDS-PROF. FEES CLIENTS AY 2023-24
+        
+CADT0014900943 - 0014900943 X X TDS - RENT RECEIVED AY 2010-11
+        
+CADT0014900944 - 0014900944 X X TDS - RENT RECEIVED AY 2011-12
+        
+CADT0014900945 - 0014900945 X X TDS - COMMISSION RECEIVED AY2007-08
+        
+CADT0014900946 - 0014900946 X X TDS - PROF & CONS. CHARGES AY 2007-08
+        
+CADT0014900947 - 0014900947 X X TDS - SALE OF IMMOVABLE PROPERTY
+        
+CADT0014900948 - 0014900948 X X TDS ON DIVIDEND INCOME FY-21-22
+        
+CADT0014900949 - 0014900949 X X TDS ON DIVIDEND INCOME FY-22-23
+        
+CADT0014900950 - 0014900950 X X ADVANCE I TAX FY01-02-IND
+        
+CADT0014900951 - 0014900951 X X ADVANCE I TAX FY02-03-IND
+        
+CADT0014900952 - 0014900952 X X ADVANCE I TAX FY03-04-IND
+        
+CADT0014900953 - 0014900953 X X ADVANCE I TAX FY04-05-IND
+        
+CADT0014900954 - 0014900954 X X ADVANCE I TAX FY05-06-IND
+        
+CADT0014900955 - 0014900955 X X ADVANCE I TAX FY06-07-IND
+        
+CADT0014900956 - 0014900956 X X ADVANCE I TAX FY 07-08-IND
+        
+CADT0014900957 - 0014900957 X X INCOME TAX REFND REC AY2006-07
+        
+CADT0014900958 - 0014900958 X X ADVANCE INC TAX FY 2008-09 IND
+        
+CADT0014900959 - 0014900959 X X ADVANCE INC TAX FY 2009-10
+        
+CADT0014900960 - 0014900960 X X INCOME TAX REFUND RECEIVED
+        
+CADT0014900968 - 0014900968 X X INCOME TAX REFUND RECEIVED F.Y 1994-95
+        
+CADT0014900969 - 0014900969 X X INCOME TAX REFUND RECEIVED F.Y 2000-01
+        
+CADT0014900970 - 0014900970 X X INCOME TAX REFUND RECEIVED F.Y 2002-03
+        
+CADT0014900971 - 0014900971 X X INCOME TAX REFUND RECEIVED F.Y 2003-04
+        
+CADT0014900972 - 0014900972 X X INCOME TAX REFUND RECEIVED F.Y 2005-06
+        
+CADT0014900973 - 0014900973 X X INCOME TAX REFUND RECEIVED F.Y 2006-07
+        
+CADT0014900974 - 0014900974 X X INCOME TAX REFUND RECEIVED F.Y 2007-08
+        
+CADT0014900975 - 0014900975 X X INCOME TAX REFUND RECEIVED F.Y 2008-09
+        
+CADT0014900976 - 0014900976 X X INCOME TAX REFUND RECEIVED F.Y 2009-10
+        
+CADT0014900977 - 0014900977 X X INCOME TAX REFUND RECEIVED F.Y 2010-11
+        
+CADT0014900978 - 0014900978 X X INCOME TAX REFUND RECEIVED F.Y 2011-12
+        
+CADT0014900979 - 0014900979 X X INCOME TAX REFUND RECEIVED F.Y 2012-13
+        
+CADT0014900980 - 0014900980 X X INCOME TAX REFUND RECEIVED F.Y 2013-14
+        
+CADT0014900981 - 0014900981 X X INCOME TAX REFUND RECEIVED F.Y 2014-15
+        
+CADT0014900982 - 0014900982 X X INCOME TAX REFUND RECEIVED F.Y 2015-16
+        
+CADT0014900983 - 0014900983 X X INCOME TAX REFUND RECEIVED F.Y 2016-17
+        
+CADT0014900984 - 0014900984 X X INCOME TAX REFUND RECEIVED F.Y 2017-18
+        
+CADT0014900985 - 0014900985 X X INCOME TAX REFUND RECEIVED F.Y 2018-19
+        
+CADT0014900989 - 0014900989 X X ADVANCE TAX PAID (HKD) FY 2018-19
+        
+CADT0014900990 - 0014900990 X X ADVANCE TAX PAID (HKD) FY 2019-20
+        
+CADT0014900991 - 0014900991 X X INCOME TAX REFUND RECEIVED F.Y 2019-20
+        
+CADT0014900992 - 0014900992 X X INCOME TAX REFUND RECEIVED F.Y 2020-21
+        
+CADT0014900993 - 0014900993 X X INCOME TAX REFUND RECEIVED F.Y 2021-22
+        
+CADT0014900994 - 0014900994 X X ADVANCE TAX PAID (HKD) FY 2020-21
+        
+CADT0014900997 - 0014900997 X X SELF ASS TAX FY07-08-IND
+        
+CADT0014900998 - 0014900998 X X SELF ASS TAX FY08-09-IND
+        
+CADT0014900999 - 0014900999 X X SELF ASS TAX FY 2010-11
+        
+CADT0014901000 - 0014901000 X X SELF ASSESSMENT TAX FY 2011-12
+        
+CADT0014901001 - 0014901001 X X SELF ASSESSMENT TAX FY 2014-15
+        
+CADT0014901002 - 0014901002 X X SELF ASSESSMENT TAX FY 2015-16
+        
+CADT0014901003 - 0014901003 X X SELF ASSESSMENT TAX FY 2016-17
+        
+CADT0014901004 - 0014901004 X X SELF ASSESSMENT TAX FY 2017-18
+        
+CADT0014901005 - 0014901005 X X SELF ASSESSMENT TAX FY 2018-19
+CADT0014901006 - 0014901006 X X SELF ASSESSMENT TAX FY 2019-20
+        
+CADT0014901007 - 0014901007 X X SELF ASSESSMENT TAX FY 2020-21
+        
+CADT0014901008 - 0014901008 X X SELF ASSESSMENT TAX FY 2021-22
+        
+CADT0014901009 - 0014901009 X X SELF ASSESSMENT TAX FY 2022-23
+        
+CADT0014901010 - 0014901010 X X POST ASSESSMENT TAX AY 2007-08
+        
+CADT0014901011 - 0014901011 X X POST ASSESSMENT TAX AY 2008-09
+        
+CADT0014901012 - 0014901012 X X POST ASSESSMENT TAX AY 2009-10
+        
+CADT0014901013 - 0014901013 X X POST ASSESSMENT TAX AY 2010-11
+        
+CADT0014901014 - 0014901014 X X POST ASSESSMENT TAX AY 2011-12
+        
+CADT0014901015 - 0014901015 X X POST ASSESSMENT TAX AY 1998-99
+        
+CADT0014901016 - 0014901016 X X POST ASSESSMENT TAX AY 2000-01
+        
+CADT0014901017 - 0014901017 X X POST ASSESSMENT TAX AY 2003-04
+        
+CADT0014901018 - 0014901018 X X POST ASSESSMENT TAX AY 2016-17
+        
+CADT0014901019 - 0014901019 X X POST ASSESSMENT TAX AY 2004-05
+        
+CADT0014901020 - 0014901020 X X POST ASSESSMENT TAX AY 2002-03
+        
+CADT0014901021 - 0014901021 X X POST ASSESSMENT TAX-FBT AY 2007-08
+        
+CADT0014901022 - 0014901022 X X POST ASSESSMENT TAX-FBT AY 2008-09
+        
+CADT0014901023 - 0014901023 X X POST ASSESSMENT TAX AY 2012-13
+        
+CADT0014901024 - 0014901024 X X POST ASSESSMENT TAX AY 2014-15
+        
+CADT0014901025 - 0014901025 X X POST ASSESSMENT TAX AY 2018-19
+        
+CADT0014901026 - 0014901026 X X POST ASSESSMENT TAX AY 2019-20
+        
+CADT0014901027 - 0014901027 X X POST ASSESSMENT TAX AY 2020-21
+        
+CADT0014901028 - 0014901028 X X POST ASSESSMENT TAX AY 2022-23
+        
+CADT0014901029 - 0014901029 X X POST ASSESSMENT TAX AY 2015-16
+        
+CADT0014901030 - 0014901030 X X OTH POST ASS.TAXFY96-97
+        
+CADT0014901031 - 0014901031 X X OTH POST ASS.TAXFY99-00
+        
+CADT0014901032 - 0014901032 X X OTH POST ASS.TAXFY01-02
+        
+CADT0014901033 - 0014901033 X X OTH POST ASS.TAXFY02-03
+        
+CADT0014901034 - 0014901034 X X OTH POST ASS.TAXFY03-04
+        
+CADT0014901035 - 0014901035 X X OTH POST ASS.TAXFY05-06
+        
+CADT0014901036 - 0014901036 X X OTH POST ASS.TAXFY07-08
+        
+CADT0014901037 - 0014901037 X X OTH POST ASS.TAXFY94-95
+        
+CADT0014901038 - 0014901038 X X OTH POST ASS.TAXFY95-96
+        
+CADT0014901039 - 0014901039 X X OTH POST ASST.TAX FY 2008-09
+        
+CADT0014901040 - 0014901040 X X OTH POST ASST.TAX FY 2010-11
+        
+CADT0014901041 - 0014901041 X X OTH POST ASST.TAX FY 2011-12
+        
+CADT0014901042 - 0014901042 X X OTH POST ASST.TAX FY 2009-10
+        
+CADT0014901043 - 0014901043 X X INCOME TAX REFUND RECEIVED AY 2006-07
+        
+CADT0014901200 - 0014901200 X X TCS-PURCH OF GOODS AY 2021-2022
+        
+CADT0014905037 - 0014905037 X X TDS-Prof. Fees Clients AY 2024-25
+        
+CADT0014905038 - 0014905038 X X Income Tax Refund received F.Y 2022-23
+        
+CADT0014905039 - 0014905039 X X Advance Inc Tax FY 2024-25
+        
+CADT0014905040 - 0014905040 X X Income Tax Refund received F.Y 2023-24
+        
+CADT0014905041 - 0014905041 X X Self Assessment Tax FY 2023-24
+        
+CADT0014906000 - 0014906000 X X ADVANCE INC TAX FY 2025-26
+        
+CADT0014906024 - 0014906024 X X INCOME TAX REFUND RECEIVED F.Y 2024-25
+        
+CADT0014906025 - 0014906025 X X POST ASSESSMENT TAX AY 2013-14
+        
+CADT0014906026 - 0014906026 X X POST ASSESSMENT TAX AY 2017-18
+        
+CADT0014906027 - 0014906027 X X POST ASSESSMENT TAX AY 2021-22
+        
+CADT0014906028 - 0014906028 X X POST ASSESSMENT TAX AY 2023-24
+        
+CADT0014906029 - 0014906029 X X SELF ASSESSMENT TAX FY 2024-25
+        
+CADT0014906030 - 0014906030 X X TDS - INT ON FD A.Y 2024-25
+        
+CADT0014906031 - 0014906031 X X TDS - INT ON FD/LOAN A.Y 2025-26
+        
+CADT0014906032 - 0014906032 X X TDS-PROF. FEES CLIENTS AY 2025-26
+        
+CADT0014909000 - 0014909000 X X Taxes Receivable FX Adj
+        
+CADT0018800204 - 0018800204 X X Loan Receivables - Long Term
+        
+CADT0023400300 - 0023400300 X X Accrued Income Tax
+        
+CADT0023400310 - 0023400310 X X Provision Income Tax - India - 2012-13
+        
+CADT0023400330 - 0023400330 X X Provision Income Tax - India - 2013-14
+        
+CADT0023400340 - 0023400340 X X Provision Income Tax - India - 2014-15
+        
+CADT0023400360 - 0023400360 X X Provision Income Tax - India - 2015-16
+        
+CADT0023400370 - 0023400370 X X Provision Income Tax - India - 2016-17
+        
+CADT0023400380 - 0023400380 X X Provision Income Tax - India - 2017-18
+        
+CADT0023400385 - 0023400385 X X Provision Income Tax - India - 2018-19
+        
+CADT0023400386 - 0023400386 X X Provision Income Tax # India # 2019-20
+CADT0023400387 - 0023400387 X X Provision Income Tax # India - 2020-21
+        
+CADT0023400388 - 0023400388 X X Provision Income Tax # India - 2021-22
+        
+CADT0023400389 - 0023400389 X X Provision Income Tax # India - 2022-23
+        
+CADT0023402700 - 0023402700 X X PROV. FOR I TAX FY 24-25
+        
+CADT0023402701 - 0023402701 X X LOAN GIVEN TO DSA LLP BY DIASPL
+        
+CADT0023402702 - 0023402702 X X LOAN TAKEN BY DSA LLP FROM DIASPL
+        
+CADT0023402709 - 0023402709 X X Inter-Entity Loan Given To AFFCO LLP
+        
+CADT0023402711 - 0023402711 X X Inter-Entity Loan Taken From SBB CO LLP
+        
+CADT0023402712 - 0023402712 X X Inter-Entity Loan Given To DSSI LLP
+        
+CADT0023402713 - 0023402713 X X Inter-Entity Loan Given To DSA LLP
+        
+CADT0023402714 - 0023402714 X X Loan Given to Deloitte Bangladesh Ltd.
+        
+CADT0023402720 - 0023402720 X X Inter-Entity Loan Taken From DTTI LLP
+        
+CADT0023404600 - 0023404600 X X Prov. for Income Tax FY 23-24
+        
+CADT0023407701 - 0023407701 X X Provision for Fringe Benefit Tax FY08-09
+        
+CADT0023900000 - 0023900000 X X AP - Intercompany Control
+        
+CADT0023904000 - 0023904000 X X INTER FIRM TDS A/C
+        
+CADT0023910000 - 0023910000 X X AP - Other Interfirm Control
+        
+CADT0024000860 - 0024000860 X X PROV.FOR I TAX FY 03-04
+        
+CADT0024000861 - 0024000861 X X PROV.FOR I TAX FY 04-05
+        
+CADT0024000862 - 0024000862 X X PROV.FOR I TAX FY 05-06
+        
+CADT0024000863 - 0024000863 X X PROV.FOR I TAX FY 06-07
+        
+CADT0024000864 - 0024000864 X X PROV. FOR I TAX-FY 07-08
+        
+CADT0024000865 - 0024000865 X X PROV. FOR I TAX FY 08-09
+        
+CADT0024000866 - 0024000866 X X PROV. FOR I TAX FY 09-10
+        
+CADT0024000867 - 0024000867 X X PROV. FOR I TAX FY 10-11
+        
+CADT0024000868 - 0024000868 X X PROV. FOR I TAX FY 11-12
+        
+CADT0024000879 - 0024000879 X X PROV. FOR I TAX - Old Years
+        
+CADT0024000881 - 0024000881 X X WEALTH TAX PROV.FY04-05
+        
+CADT0024000882 - 0024000882 X X WEALTH TAX PROV.FY 05-06
+        
+CADT0024000883 - 0024000883 X X WEALTH TAX PROV FY 06-07
+        
+CADT0024000884 - 0024000884 X X WEALTH TAX PROV FY 2009-10
+        
+CADT0024000885 - 0024000885 X X FBT PROV. FY 2007-08
+        
+CADT0025000002 - 0025000002 X X Long Term Loan Facility - Other
+     
+     
+   
+
+1091 Other VAT Receivables
+         
+         
+CADT0014601100 - 0014601100 X X Service Tax Receivable - India
+         
+CADT0014601730 - 0014601730 X X Other Assets - Current
+         
+CADT0014608000 - 0014608000 X X CGST Input / Receivable
+         
+CADT0014608010 - 0014608010 X X SGST Input / Receivable
+         
+CADT0014608020 - 0014608020 X X IGST Input / Receivable
+         
+CADT0014900800 - 0014900800 X X GST INPUT- SGST - MAHARASHTRA
+         
+CADT0014900801 - 0014900801 X X GST INPUT - CGST - MAHARASHTRA
+         
+CADT0014900802 - 0014900802 X X GST INPUT - IGST - MAHARASHTRA
+         
+CADT0014900803 - 0014900803 X X GST INPUT- SGST - GUJARAT
+         
+CADT0014900804 - 0014900804 X X GST INPUT - CGST - GUJARAT
+         
+CADT0014900805 - 0014900805 X X GST INPUT - IGST - GUJARAT
+         
+CADT0014900806 - 0014900806 X X GST INPUT- SGST - TELANGANA
+         
+CADT0014900807 - 0014900807 X X GST INPUT - CGST - TELANGANA
+         
+CADT0014900808 - 0014900808 X X GST INPUT - IGST - TELANGANA
+         
+CADT0014900809 - 0014900809 X X GST INPUT- SGST - TAMILNADU
+         
+CADT0014900810 - 0014900810 X X GST INPUT - CGST - TAMILNADU
+         
+CADT0014900811 - 0014900811 X X GST INPUT - IGST - TAMILNADU
+         
+CADT0014900812 - 0014900812 X X GST INPUT- SGST - WEST BENGAL
+         
+CADT0014900813 - 0014900813 X X GST INPUT - CGST - WEST BENGAL
+         
+CADT0014900814 - 0014900814 X X GST INPUT - IGST - WEST BENGAL
+         
+CADT0014900815 - 0014900815 X X GST INPUT- SGST - HARYANA
+         
+CADT0014900816 - 0014900816 X X GST INPUT - CGST - HARYANA
+         
+CADT0014900817 - 0014900817 X X GST INPUT - IGST -  HARYANA
+         
+CADT0014900818 - 0014900818 X X GST INPUT- SGST - KARNATAKA
+         
+CADT0014900819 - 0014900819 X X GST INPUT - CGST - KARNATAKA
+         
+CADT0014900820 - 0014900820 X X GST INPUT - IGST -  KARNATAKA
+         
+CADT0014900821 - 0014900821 X X GST INPUT- SGST - GOA
+         
+CADT0014900822 - 0014900822 X X GST INPUT - CGST - GOA
+         
+CADT0014900823 - 0014900823 X X GST INPUT - IGST - GOA
+CADT0014900824 - 0014900824 X X GST INPUT- SGST - KERALA
+         
+CADT0014900825 - 0014900825 X X GST INPUT - CGST - KERALA
+         
+CADT0014900826 - 0014900826 X X GST INPUT - IGST - KERALA
+         
+CADT0014900827 - 0014900827 X X GST INPUT- SGST - JHARKHAND
+         
+CADT0014900828 - 0014900828 X X GST INPUT- CGST - JHARKHAND
+         
+CADT0014900829 - 0014900829 X X GST INPUT- IGST - JHARKHAND
+         
+CADT0014900830 - 0014900830 X X GST REFUND RECEIVABLE
+         
+CADT0014900831 - 0014900831 X X GST INPUT- SGST - ODISHA
+         
+CADT0014900832 - 0014900832 X X GST INPUT- CGST - ODISHA
+         
+CADT0014900833 - 0014900833 X X GST INPUT- IGST - ODISHA
+         
+CADT0014900834 - 0014900834 X X GST INPUT- RCM SGST - MAHARASHTRA
+         
+CADT0014900835 - 0014900835 X X GST INPUT - RCM CGST - MAHARASHTRA
+         
+CADT0014900836 - 0014900836 X X GST INPUT - RCM IGST - MAHARASHTRA
+         
+CADT0014900837 - 0014900837 X X GST INPUT- RCM SGST - GUJARAT
+         
+CADT0014900838 - 0014900838 X X GST INPUT - RCM CGST - GUJARAT
+         
+CADT0014900839 - 0014900839 X X GST INPUT- RCM SGST - TELANGANA
+         
+CADT0014900840 - 0014900840 X X GST INPUT - RCM CGST - TELANGANA
+         
+CADT0014900841 - 0014900841 X X GST INPUT - RCM IGST - TELANGANA
+         
+CADT0014900842 - 0014900842 X X GST INPUT- RCM SGST - TAMILNADU
+         
+CADT0014900843 - 0014900843 X X GST INPUT - RCM CGST - TAMILNADU
+         
+CADT0014900844 - 0014900844 X X GST INPUT - RCM IGST - TAMILNADU
+         
+CADT0014900845 - 0014900845 X X GST INPUT- RCM SGST - WEST BENGAL
+         
+CADT0014900846 - 0014900846 X X GST INPUT - RCM CGST - WEST BENGAL
+         
+CADT0014900847 - 0014900847 X X GST INPUT - RCM IGST - WEST BENGAL
+         
+CADT0014900848 - 0014900848 X X GST INPUT- RCM SGST - HARYANA
+         
+CADT0014900849 - 0014900849 X X GST INPUT - RCM CGST - HARYANA
+         
+CADT0014900850 - 0014900850 X X GST INPUT - RCM IGST -  HARYANA
+         
+CADT0014900851 - 0014900851 X X GST INPUT- RCM SGST - KARNATAKA
+         
+CADT0014900852 - 0014900852 X X GST INPUT - RCM CGST - KARNATAKA
+         
+CADT0014900853 - 0014900853 X X GST INPUT - RCM IGST -  KARNATAKA
+         
+CADT0014900854 - 0014900854 X X GST INPUT - RCM IGST - KERALA
+         
+CADT0014900855 - 0014900855 X X GST INPUT - RCM FOREIGN IGST - MAHARASHTRA
+         
+CADT0014900856 - 0014900856 X X GST INPUT - RCM FOREIGN IGST - GUJARAT
+         
+CADT0014900857 - 0014900857 X X GST INPUT - RCM FOREIGN IGST - TELANGANA
+         
+CADT0014900858 - 0014900858 X X GST INPUT - RCM FOREIGN IGST - TAMILNADU
+         
+CADT0014900859 - 0014900859 X X GST INPUT - RCM FOREIGN IGST - WEST BENGAL
+         
+CADT0014900860 - 0014900860 X X GST INPUT - RCM FOREIGN IGST -  HARYANA
+         
+CADT0014900861 - 0014900861 X X GST INPUT - RCM FOREIGN IGST -  KARNATAKA
+         
+CADT0014900862 - 0014900862 X X GST INPUT- SGST - MAHARASHTRA Travel
+         
+CADT0014900863 - 0014900863 X X GST INPUT - CGST - MAHARASHTRA Travel
+         
+CADT0014900864 - 0014900864 X X GST INPUT - IGST - MAHARASHTRA Travel
+         
+CADT0014900865 - 0014900865 X X GST INPUT- SGST - GUJARAT Travel
+         
+CADT0014900866 - 0014900866 X X GST INPUT - CGST - GUJARAT Travel
+         
+CADT0014900867 - 0014900867 X X GST INPUT - IGST - GUJARAT Travel
+         
+CADT0014900868 - 0014900868 X X GST INPUT- SGST - TELANGANA Travel
+         
+CADT0014900869 - 0014900869 X X GST INPUT - CGST - TELANGANA Travel
+         
+CADT0014900870 - 0014900870 X X GST INPUT - IGST - TELANGANA Travel
+         
+CADT0014900871 - 0014900871 X X GST INPUT- SGST - TAMILNADU Travel
+         
+CADT0014900872 - 0014900872 X X GST INPUT - CGST - TAMILNADU Travel
+         
+CADT0014900873 - 0014900873 X X GST INPUT - IGST - TAMILNADU Travel
+         
+CADT0014900874 - 0014900874 X X GST INPUT- SGST - WEST BENGAL Travel
+         
+CADT0014900875 - 0014900875 X X GST INPUT - CGST - WEST BENGAL Travel
+         
+CADT0014900876 - 0014900876 X X GST INPUT - IGST - WEST BENGAL Travel
+         
+CADT0014900877 - 0014900877 X X GST INPUT- SGST - HARYANA Travel
+         
+CADT0014900878 - 0014900878 X X GST INPUT - CGST - HARYANA Travel
+         
+CADT0014900879 - 0014900879 X X GST INPUT - IGST -  HARYANA Travel
+         
+CADT0014900880 - 0014900880 X X GST INPUT- SGST - KARNATAKA Travel
+         
+CADT0014900881 - 0014900881 X X GST INPUT - CGST - KARNATAKA Travel
+         
+CADT0014900882 - 0014900882 X X GST INPUT - IGST -  KARNATAKA Travel
+         
+CADT0014900883 - 0014900883 X X GST INPUT- SGST - GOA Travel
+         
+CADT0014900884 - 0014900884 X X GST INPUT - CGST - GOA Travel
+         
+CADT0014900885 - 0014900885 X X GST INPUT - IGST - GOA Travel
+         
+CADT0014900886 - 0014900886 X X GST INPUT- SGST - KERALA Travel
+         
+CADT0014900887 - 0014900887 X X GST INPUT - CGST - KERALA Travel
+         
+CADT0014900888 - 0014900888 X X GST INPUT - IGST - KERALA Travel
+CADT0014900889 - 0014900889 X X GST INPUT- SGST - JHARKHAND Travel
+         
+CADT0014900890 - 0014900890 X X GST INPUT- CGST - JHARKHAND Travel
+         
+CADT0014900891 - 0014900891 X X GST INPUT- IGST - JHARKHAND Travel
+         
+CADT0014900892 - 0014900892 X X GST INPUT- IGST - ODISHA# Travel
+         
+CADT0014900893 - 0014900893 X X GST INPUT - CONTROL A/C Travel
+         
+CADT0014900894 - 0014900894 X X GST TDS # SGST
+         
+CADT0014900895 - 0014900895 X X GST TDS # CGST
+         
+CADT0014900896 - 0014900896 X X GST TDS # IGST
+         
+CADT0014905001 - 0014905001 X X GST Input- SGST - Uttar Pradesh
+         
+CADT0014905002 - 0014905002 X X GST Input- CGST - Uttar Pradesh
+         
+CADT0014905003 - 0014905003 X X GST Input- IGST - Uttar Pradesh
+         
+CADT0014905004 - 0014905004 X X GST Input- CGST - Rajasthan
+         
+CADT0014905005 - 0014905005 X X GST Input- SGST - Rajasthan
+         
+CADT0014905006 - 0014905006 X X GST Input- IGST - Rajasthan
+         
+CADT0014905007 - 0014905007 X X GST Input - RCM IGST - Gujarat
+         
+CADT0014905008 - 0014905008 X X GST Input- RCM SGST - Goa
+         
+CADT0014905009 - 0014905009 X X GST Input - RCM CGST - Goa
+         
+CADT0014905010 - 0014905010 X X GST Input - RCM IGST - Goa
+         
+CADT0014905011 - 0014905011 X X GST Input- RCM SGST - Kerala
+         
+CADT0014905012 - 0014905012 X X GST Input - RCM CGST - Kerala
+         
+CADT0014905013 - 0014905013 X X GST Input- RCM SGST - Odisha
+         
+CADT0014905014 - 0014905014 X X GST Input - RCM CGST - Odisha
+         
+CADT0014905015 - 0014905015 X X GST Input - RCM IGST - Odisha
+         
+CADT0014905016 - 0014905016 X X GST Input - RCM SGST - Uttar Pradesh
+         
+CADT0014905017 - 0014905017 X X GST Input - RCM CGST - Uttar Pradesh
+         
+CADT0014905018 - 0014905018 X X GST Input - RCM IGST - Uttar Pradesh
+         
+CADT0014905019 - 0014905019 X X GST Input- RCM CGST Rajasthan
+         
+CADT0014905020 - 0014905020 X X GST Input- RCM SGST Rajasthan
+         
+CADT0014905021 - 0014905021 X X GST Input- RCM IGST Rajasthan
+         
+CADT0014905022 - 0014905022 X X GST Input - RCM Foreign IGST - Goa
+         
+CADT0014905023 - 0014905023 X X GST Input - RCM Foreign IGST - Kerala
+         
+CADT0014905024 - 0014905024 X X GST Input - RCM Foreign IGST - Odisha
+         
+CADT0014905025 - 0014905025 X X GST Input - RCM Foreign IGST - Uttar Pradesh
+         
+CADT0014905026 - 0014905026 X X GST Input - RCM Foreign IGST - Rajasthan
+         
+CADT0014905027 - 0014905027 X X GST Input- SGST - Odisha Travel
+         
+CADT0014905028 - 0014905028 X X GST Input- CGST - Odisha Travel
+         
+CADT0014905030 - 0014905030 X X GST Input- SGST - UP Travel
+         
+CADT0014905031 - 0014905031 X X GST Input- CGST - UP Travel
+         
+CADT0014905032 - 0014905032 X X GST Input- IGST - UP# Travel
+         
+CADT0014905033 - 0014905033 X X GST Input-Ctrl-Thomas Cook
+         
+CADT0014905034 - 0014905034 X X GST Input- SGST - Rajasthan-Travel
+         
+CADT0014905035 - 0014905035 X X GST Input- CGST - Rajasthan-Travel
+         
+CADT0014905036 - 0014905036 X X GST Input- IGST - Rajasthan-Travel
+         
+CADT0014905043 - 0014905043 X X GST Input - Australia
+         
+CADT0014905044 - 0014905044 X X GST Input - ISD SGST - Delhi
+         
+CADT0014905045 - 0014905045 X X GST Input - ISD CGST - Delhi
+         
+CADT0014905046 - 0014905046 X X GST Input - ISD IGST - Delhi
+         
+CADT0014905047 - 0014905047 X X GST Input- ISD SGST - Maharashtra-Ineligible
+         
+CADT0014905048 - 0014905048 X X GST Input- ISD CGST - Maharashtra-Ineligible
+         
+CADT0014905049 - 0014905049 X X GST Input- ISD IGST - Maharashtra-Ineligible
+         
+CADT0014905050 - 0014905050 X X GST Input- ISD SGST - Gujarat -Ineligible
+         
+CADT0014905051 - 0014905051 X X GST Input- ISD CGST - Gujarat -Ineligible
+         
+CADT0014905052 - 0014905052 X X GST Input- ISD IGST - Gujarat -Ineligible
+         
+CADT0014905053 - 0014905053 X X GST Input- ISD SGST - Telangana - Ineligible
+         
+CADT0014905054 - 0014905054 X X GST Input- ISD CGST - Telangana - Ineligible
+         
+CADT0014905055 - 0014905055 X X GST Input- ISD IGST - Telangana - Ineligible
+         
+CADT0014905056 - 0014905056 X X GST Input- ISD SGST - Delhi - Ineligible
+         
+CADT0014905057 - 0014905057 X X GST Input- ISD CGST - Delhi - Ineligible
+         
+CADT0014905058 - 0014905058 X X GST Input- ISD IGST - Delhi - Ineligible
+         
+CADT0014905059 - 0014905059 X X GST Input- RCM ISD SGST - Maharashtra
+         
+CADT0014905060 - 0014905060 X X GST Input- RCM ISD CGST - Maharashtra
+         
+CADT0014905061 - 0014905061 X X GST Input- RCM ISD IGST - Maharashtra
+         
+CADT0014905062 - 0014905062 X X GST Input- RCM ISD SGST - Gujarat
+         
+CADT0014905063 - 0014905063 X X GST Input- RCM ISD CGST - Gujarat
+         
+CADT0014905064 - 0014905064 X X GST Input- RCM ISD IGST - Gujarat
+CADT0014905065 - 0014905065 X X GST Input- RCM ISD SGST - Telangana
+         
+CADT0014905066 - 0014905066 X X GST Input- RCM ISD CGST - Telangana
+         
+CADT0014905067 - 0014905067 X X GST Input- RCM ISD IGST - Telangana
+         
+CADT0014905068 - 0014905068 X X GST Input- RCM ISD SGST - Delhi
+         
+CADT0014905069 - 0014905069 X X GST Input- RCM ISD CGST - Delhi
+         
+CADT0014905070 - 0014905070 X X GST Input- RCM ISD IGST - Delhi
+         
+CADT0014905071 - 0014905071 X X GST Input- RCM ISD SGST - Maharashtra - Ineligible
+         
+CADT0014905072 - 0014905072 X X GST Input- RCM ISD CGST - Maharashtra - Ineligible
+         
+CADT0014905073 - 0014905073 X X GST Input- RCM ISD IGST - Maharashtra - Ineligible
+         
+CADT0014905074 - 0014905074 X X GST Input- RCM ISD SGST - Gujarat - Ineligible
+         
+CADT0014905075 - 0014905075 X X GST Input- RCM ISD CGST - Gujarat - Ineligible
+         
+CADT0014905076 - 0014905076 X X GST Input- RCM ISD IGST - Gujarat - Ineligible
+         
+CADT0014905077 - 0014905077 X X GST Input- RCM ISD SGST - Telangana - Ineligible
+         
+CADT0014905078 - 0014905078 X X GST Input- RCM ISD CGST - Telangana - Ineligible
+         
+CADT0014905079 - 0014905079 X X GST Input- RCM ISD IGST - Telangana - Ineligible
+         
+CADT0014905080 - 0014905080 X X GST Input- RCM ISD SGST - Delhi - Ineligible
+         
+CADT0014905081 - 0014905081 X X GST Input- RCM ISD CGST - Delhi - Ineligible
+         
+CADT0014905082 - 0014905082 X X GST Input- RCM ISD IGST - Delhi - Ineligible
+         
+CADT0014906001 - 0014906001 X X GST INPUT - ISD CGST - MAHARASHTRA
+         
+CADT0014906002 - 0014906002 X X GST INPUT - ISD CGST - TELANGANA
+         
+CADT0014906003 - 0014906003 X X GST INPUT - ISD CGST - GUJARAT
+         
+CADT0014906004 - 0014906004 X X GST INPUT - ISD IGST - TELANGANA
+         
+CADT0014906005 - 0014906005 X X GST INPUT - ISD IGST - GUJARAT
+         
+CADT0014906006 - 0014906006 X X GST INPUT - RCM CGST - JHARKHAND
+         
+CADT0014906007 - 0014906007 X X GST INPUT - RCM FOREIGN IGST - JHARKHAND
+         
+CADT0014906008 - 0014906008 X X GST INPUT - RCM FRN-Delhi
+         
+CADT0014906009 - 0014906009 X X GST INPUT - RCM IGST - JHARKHAND
+         
+CADT0014906010 - 0014906010 X X GST INPUT- CGST - Delhi
+         
+CADT0014906011 - 0014906011 X X GST INPUT- CGST - Delhi-YATRA
+         
+CADT0014906012 - 0014906012 X X GST INPUT- IGST - Delhi
+         
+CADT0014906013 - 0014906013 X X GST INPUT- IGST - Delhi-YATRA
+         
+CADT0014906014 - 0014906014 X X GST INPUT- ISD IGST - MAHARASHTRA
+         
+CADT0014906015 - 0014906015 X X GST INPUT- ISD SGST - MAHARASHTRA
+         
+CADT0014906016 - 0014906016 X X GST INPUT- ISD SGST - GUJARAT
+         
+CADT0014906017 - 0014906017 X X GST INPUT- ISD SGST - TELANGANA
+         
+CADT0014906018 - 0014906018 X X GST INPUT- RCM CGST Delhi
+         
+CADT0014906019 - 0014906019 X X GST INPUT- RCM IGST Delhi
+         
+CADT0014906020 - 0014906020 X X GST INPUT- RCM SGST - JHARKHAND
+         
+CADT0014906021 - 0014906021 X X GST INPUT- RCM SGST Delhi
+         
+CADT0014906022 - 0014906022 X X GST INPUT- SGST - Delhi
+         
+CADT0014906023 - 0014906023 X X GST INPUT- SGST - Delhi-YATRA
+         
+CADT0024000800 - 0024000800 X X GST OUTPUT - SGST - MAHARASHTRA
+         
+CADT0024000801 - 0024000801 X X GST OUTPUT - CGST - MAHARASHTRA
+         
+CADT0024000802 - 0024000802 X X GST OUTPUT - IGST - MAHARASHTRA
+         
+CADT0024000803 - 0024000803 X X GST OUTPUT - SGST - GUJARAT
+         
+CADT0024000804 - 0024000804 X X GST OUTPUT - CGST - GUJARAT
+         
+CADT0024000805 - 0024000805 X X GST OUTPUT - IGST - GUJARAT
+         
+CADT0024000806 - 0024000806 X X GST OUTPUT - SGST - TELANGANA
+         
+CADT0024000807 - 0024000807 X X GST OUTPUT - CGST - TELANGANA
+         
+CADT0024000808 - 0024000808 X X GST OUTPUT - IGST - TELANGANA
+         
+CADT0024000809 - 0024000809 X X GST OUTPUT - SGST - TAMILNADU
+         
+CADT0024000810 - 0024000810 X X GST OUTPUT - CGST - TAMILNADU
+         
+CADT0024000811 - 0024000811 X X GST OUTPUT - IGST - TAMILNADU
+         
+CADT0024000812 - 0024000812 X X GST OUTPUT - SGST - WEST BENGAL
+         
+CADT0024000813 - 0024000813 X X GST OUTPUT - CGST - WEST BENGAL
+         
+CADT0024000814 - 0024000814 X X GST OUTPUT - IGST - WEST BENGAL
+         
+CADT0024000815 - 0024000815 X X GST OUTPUT - SGST - HARYANA
+         
+CADT0024000816 - 0024000816 X X GST OUTPUT - CGST - HARYANA
+         
+CADT0024000817 - 0024000817 X X GST OUTPUT - IGST - HARYANA
+         
+CADT0024000818 - 0024000818 X X GST OUTPUT - SGST - KARNATAKA
+         
+CADT0024000819 - 0024000819 X X GST OUTPUT - CGST - KARNATAKA
+         
+CADT0024000820 - 0024000820 X X GST OUTPUT - IGST - KARNATAKA
+         
+CADT0024000821 - 0024000821 X X GST OUTPUT - SGST - GOA
+         
+CADT0024000822 - 0024000822 X X GST OUTPUT - CGST - GOA
+         
+CADT0024000823 - 0024000823 X X GST OUTPUT - IGST - GOA
+CADT0024000824 - 0024000824 X X GST OUTPUT - SGST - KERALA
+         
+CADT0024000825 - 0024000825 X X GST OUTPUT - CGST - KERALA
+         
+CADT0024000826 - 0024000826 X X GST OUTPUT - IGST - KERALA
+         
+CADT0024000827 - 0024000827 X X GST OUTPUT - IGST - JHARKHAND
+         
+CADT0024000828 - 0024000828 X X GST OUTPUT - SGST - ODISHA
+         
+CADT0024000829 - 0024000829 X X GST OUTPUT - CGST - ODISHA
+         
+CADT0024000830 - 0024000830 X X GST OUTPUT - IGST - ODISHA
+         
+CADT0024000831 - 0024000831 X X GST OUTPUT - COMP CESS - HARYANA
+         
+CADT0024000832 - 0024000832 X X GST OUTPUT - RCM SGST - MAHARASHTRA
+         
+CADT0024000833 - 0024000833 X X GST OUTPUT - RCM CGST - MAHARASHTRA
+         
+CADT0024000834 - 0024000834 X X GST OUTPUT - RCM IGST - MAHARASHTRA
+         
+CADT0024000835 - 0024000835 X X GST OUTPUT - RCM SGST - GUJARAT
+         
+CADT0024000836 - 0024000836 X X GST OUTPUT - RCM CGST - GUJARAT
+         
+CADT0024000837 - 0024000837 X X GST OUTPUT - RCM SGST - TELANGANA
+         
+CADT0024000838 - 0024000838 X X GST OUTPUT - RCM CGST - TELANGANA
+         
+CADT0024000839 - 0024000839 X X GST OUTPUT - RCM IGST - TELANGANA
+         
+CADT0024000840 - 0024000840 X X GST OUTPUT - RCM SGST - TAMILNADU
+         
+CADT0024000841 - 0024000841 X X GST OUTPUT - RCM CGST - TAMILNADU
+         
+CADT0024000842 - 0024000842 X X GST OUTPUT - RCM IGST - TAMILNADU
+         
+CADT0024000843 - 0024000843 X X GST OUTPUT - RCM SGST - WEST BENGAL
+         
+CADT0024000844 - 0024000844 X X GST OUTPUT - RCM CGST - WEST BENGAL
+         
+CADT0024000845 - 0024000845 X X GST OUTPUT - RCM IGST - WEST BENGAL
+         
+CADT0024000846 - 0024000846 X X GST OUTPUT - RCM SGST - HARYANA
+         
+CADT0024000847 - 0024000847 X X GST OUTPUT - RCM CGST - HARYANA
+         
+CADT0024000848 - 0024000848 X X GST OUTPUT - RCM IGST - HARYANA
+         
+CADT0024000849 - 0024000849 X X GST OUTPUT - RCM SGST - KARNATAKA
+         
+CADT0024000850 - 0024000850 X X GST OUTPUT - RCM CGST - KARNATAKA
+         
+CADT0024000851 - 0024000851 X X GST OUTPUT - RCM IGST - KARNATAKA
+         
+CADT0024000852 - 0024000852 X X GST OUTPUT - RCM IGST - KERALA
+         
+CADT0024000853 - 0024000853 X X GST OUTPUT - RCM FOREIGN IGST - MAHARASHTRA
+         
+CADT0024000854 - 0024000854 X X GST OUTPUT - RCM FOREIGN IGST - GUJARAT
+         
+CADT0024000855 - 0024000855 X X GST OUTPUT - IGST - TELANGANA RCM FOREIGN
+         
+CADT0024000856 - 0024000856 X X GST OUTPUT - RCM FOREIGN IGST - TAMILNADU
+         
+CADT0024000857 - 0024000857 X X GST OUTPUT - RCM FOREIGN IGST - WEST BENGAL
+         
+CADT0024000858 - 0024000858 X X GST OUTPUT - RCM FOREIGN IGST - HARYANA
+         
+CADT0024000859 - 0024000859 X X GST OUTPUT - RCM FOREIGN IGST - KARNATAKA
+         
+CADT0024002500 - 0024002500 X X GST CASH LEDGER-RAJASTHAN
+         
+CADT0024002501 - 0024002501 X X GST CASH LEDGER-DELHI
+         
+CADT0024002502 - 0024002502 X X GST OUTPUT- SGST -Delhi
+         
+CADT0024002503 - 0024002503 X X GST OUTPUT- CGST -Delhi
+         
+CADT0024002504 - 0024002504 X X GST OUTPUT- IGST -Delhi
+         
+CADT0024002505 - 0024002505 X X GST OUTPUT - RCM SGST - Delhi
+         
+CADT0024002506 - 0024002506 X X GST OUTPUT - RCM CGST - Delhi
+         
+CADT0024002507 - 0024002507 X X GST OUTPUT - RCM IGST - Delhi
+         
+CADT0024002508 - 0024002508 X X GST OUTPUT- RCM Foreign IGST-Delhi
+         
+CADT0024002509 - 0024002509 X X GST OUTPUT - SGST - JHARKHAND
+         
+CADT0024002510 - 0024002510 X X GST OUTPUT - CGST - JHARKHAND
+         
+CADT0024002511 - 0024002511 X X GST OUTPUT - RCM SGST - JHARKHAND
+         
+CADT0024002512 - 0024002512 X X GST OUTPUT - RCM CGST - JHARKHAND
+         
+CADT0024002513 - 0024002513 X X GST OUTPUT - RCM IGST - JHARKHAND
+         
+CADT0024002514 - 0024002514 X X GST OUTPUT - RCM FOREIGN IGST - JHARKHAND
+         
+CADT0024003800 - 0024003800 X X VAT PAYABLE A/C - NEPAL
+         
+CADT0024007001 - 0024007001 X X VAT - Output / Payable
+         
+CADT0024008600 - 0024008600 X X GST Cash Ledger - Goa
+         
+CADT0024008601 - 0024008601 X X GST Cash Ledger - Maharashtra
+         
+CADT0024008602 - 0024008602 X X GST Cash Ledger - Gujarat
+         
+CADT0024008603 - 0024008603 X X GST Cash Ledger - Haryana
+         
+CADT0024008604 - 0024008604 X X GST Cash Ledger - Karnataka
+         
+CADT0024008605 - 0024008605 X X GST Cash Ledger - Kerala
+         
+CADT0024008606 - 0024008606 X X GST Cash Ledger - Telangana
+         
+CADT0024008607 - 0024008607 X X GST Cash Ledger - Tamilnadu
+         
+CADT0024008608 - 0024008608 X X GST Cash Ledger - West Bengal
+         
+CADT0024008609 - 0024008609 X X GST Cash Ledger - Jharkhand
+         
+CADT0024008610 - 0024008610 X X GST Cash Ledger - Odisha
+         
+CADT0024008611 - 0024008611 X X GST Cash Ledger-Uttar Pradesh
+CADT0024008612 - 0024008612 X X GST Output - SGST - Uttar Pradesh
+         
+CADT0024008613 - 0024008613 X X GST Output-CGST-Uttar Pradesh
+         
+CADT0024008614 - 0024008614 X X GST Output-IGST-Uttar Pradesh
+         
+CADT0024008615 - 0024008615 X X GST Output- CGST -Rajasthan
+         
+CADT0024008616 - 0024008616 X X GST Output- SGST -Rajasthan
+         
+CADT0024008617 - 0024008617 X X GST Output- IGST -Rajasthan
+         
+CADT0024008618 - 0024008618 X X GST Output - RCM IGST - Gujarat
+         
+CADT0024008619 - 0024008619 X X GST Output - RCM SGST - Goa
+         
+CADT0024008620 - 0024008620 X X GST Output - RCM CGST - Goa
+         
+CADT0024008621 - 0024008621 X X GST Output - RCM IGST - Goa
+         
+CADT0024008622 - 0024008622 X X GST Output - RCM SGST - Kerala
+         
+CADT0024008623 - 0024008623 X X GST Output - RCM CGST - Kerala
+         
+CADT0024008624 - 0024008624 X X GST Output - RCM SGST - Andhra Pradesh
+         
+CADT0024008625 - 0024008625 X X GST Output - RCM CGST - Andhra Pradesh
+         
+CADT0024008626 - 0024008626 X X GST Output - RCM IGST - Andhra Pradesh
+         
+CADT0024008627 - 0024008627 X X GST Output - RCM SGST - Odisha
+         
+CADT0024008628 - 0024008628 X X GST Output - RCM CGST - Odisha
+         
+CADT0024008629 - 0024008629 X X GST Output - RCM IGST - Odisha
+         
+CADT0024008630 - 0024008630 X X GST Output - RCM SGST - Uttar Pradesh
+         
+CADT0024008631 - 0024008631 X X GST Output - RCM CGST - Uttar Pradesh
+         
+CADT0024008632 - 0024008632 X X GST Output - RCM IGST - Uttar Pradesh
+         
+CADT0024008633 - 0024008633 X X GST Output-RCM CGST-Rajasthan
+         
+CADT0024008634 - 0024008634 X X GST Output- RCM SGST-Rajasthan
+         
+CADT0024008635 - 0024008635 X X GST Output - RCM IGST - Rajasthan
+         
+CADT0024008636 - 0024008636 X X GST Output - RCM Foreign IGST - Goa
+         
+CADT0024008637 - 0024008637 X X GST Output - RCM Foreign IGST - Kerala
+         
+CADT0024008638 - 0024008638 X X GST Output - RCM Foreign IGST - Andhra Pradesh
+         
+CADT0024008639 - 0024008639 X X GST Output - RCM Foreign IGST - Odisha
+         
+CADT0024008640 - 0024008640 X X GST Output- RCM Foreign IGST-Uttar Pradesh
+         
+CADT0024008641 - 0024008641 X X GST Output - RCM Frn-Rajasthan
+         
+CADT0024008642 - 0024008642 X X GST Output - Australia
+  
+  
+011  Other Assets
+  
+   
+
+012  Fixed Assets - net
+     
+     
+1120 Investments
+     
+1130 Investment in Nautilus
+     
+1150 Other Non-Current Assets
+     
+1160 Right-of-Use Asset
+     
+   
+
+1239 Furniture, Equipment & Leasehold Improvements
+        
+        
+   
+
+1240 Furniture, Equipment & Leasehold Improvements
+           
+           
+CADT0016000100 - 0016000100 X X Furniture & Fixtures - Cost
+           
+CADT0016000200 - 0016000200 X X Office Equipment - Cost
+           
+CADT0016000600 - 0016000600 X X Automobiles - Cost
+           
+CADT0016000760 - 0016000760 X X Fixed Asset cost clearing account
+        
+        
+   
+
+1241 Accumulated Depreciation - Furniture (enter a
+           
+           
+CADT0016100100 - 0016100100 X X Accum Depr - Furniture
+           
+CADT0016100200 - 0016100200 X X Accum Depr - Office Equipment
+           
+CADT0016100600 - 0016100600 X X Accum Depr - Automobiles
+        
+        
+1299 Furniture, Equipment & Leasehold Improvements
+     
+     
+   
+
+1339 Computers & Equipment
+        
+        
+   
+
+1340 Computers & Equipment - Cost
+           
+           
+CADT0015200120 - 0015200120 X X Servers & Storage
+           
+CADT0015202101 - 0015202101 X X Computers & Equipment - Cost
+           
+CADT0016000411 - 0016000411 X X Server
+           
+CADT0016000412 - 0016000412 X X Laptop & Desktop
+           
+CADT0016000413 - 0016000413 X X Computer Software
+CADT0016000761 - 0016000761 X X Fixed Asset cost clearing account 1
+        
+        
+   
+
+1341 Accumulated Depreciation - Computers (enter a
+           
+           
+CADT0015300500 - 0015300500 X X ACCUM DEPRECIATION-NETWOR
+           
+CADT0016100213 - 0016100213 X X Accum Depr - Server
+           
+CADT0016100215 - 0016100215 X X Accum Depr - Laptop & Desktop
+           
+CADT0016100216 - 0016100216 X X Accum Depr - Computer Software
+        
+        
+1399 Computers & Equipment - net
+     
+     
+   
+
+1439 Land & Buildings
+         
+         
+   
+
+1440 Land & Buildings - Cost
+            
+            
+CADT0015402014 - 0015402014 X X Leasehold Improvements - Cost
+            
+CADT0015600000 - 0015600000 X X Freehold Property - cost
+            
+CADT0015600200 - 0015600200 X X Building
+            
+CADT0016000700 - 0016000700 X X Assets Under Construction (AUC)
+         
+         
+   
+
+1441 Accumulated Depreciation - Buildings (enter a
+            
+            
+CADT0015502014 - 0015502014 X X Accum Amort - Leasehold Improvements
+            
+CADT0015700100 - 0015700100 X X Accum Depr - Building
+         
+         
+1499 Land & Buildings - net
+  
+  
+   
+
+013  Intangible Assets
+     
+     
+   
+
+1540 Goodwill
+        
+        
+CADT0017200200 - 0017200200 X X Goodwill
+     
+     
+1550 Computer Software
+     
+   
+
+1560 Other Acquisition Intangibles
+         
+         
+CADT0016102501 - 0016102501 X X Accumulated Depreciation - Non Compete Fees
+         
+CADT0017200001 - 0017200001 X X Intellectual Property - Costs
+         
+CADT0017200002 - 0017200002 X X Accum Depr - Intellectual Property
+         
+CADT0017200550 - 0017200550 X X NON COMPETE FEES
+  
+  
+014  Current Liabilities
+  
+   
+
+015  Other Liabilities
+     
+     
+   
+
+2010 Bank Overdrafts
+        
+        
+CADT0010133480 - 0010133480 X X RATNAKAR-MUM-409000032439-CC M
+        
+CADT0010133481 - 0010133481 X X RATNAKAR-MUM-409000032439-CC P
+        
+CADT0010133482 - 0010133482 X X RATNAKAR-MUM-409000032439-CC R
+        
+CADT0010133490 - 0010133490 X X IDBI-MUM-0004655100002318 M
+        
+CADT0010133491 - 0010133491 X X IDBI-MUM-0004655100002318 P
+        
+CADT0010133492 - 0010133492 X X IDBI-MUM-0004655100002318 R
+        
+CADT0010133500 - 0010133500 X X ANZ-MUM-003000059325-CC-M
+        
+CADT0010133501 - 0010133501 X X ANZ-MUM-003000059325-CC-P
+        
+CADT0010133502 - 0010133502 X X ANZ-MUM-003000059325-CC-R
+        
+CADT0010133510 - 0010133510 X X PMT-RATNAKAR-MUM-0070PCFR0200040-PC-M
+        
+CADT0010133511 - 0010133511 X X PMT-RATNAKAR-MUM-0070PCFR0200040-PC-P
+        
+CADT0010133512 - 0010133512 X X PMT-RATNAKAR-MUM-0070PCFR0200040-PC-R
+        
+CADT0010133700 - 0010133700 X X RATN-MUM-1008835040000003-CC-M
+        
+CADT0010133701 - 0010133701 X X RATN-MUM-1008835040000003-CC-P
+        
+CADT0010133702 - 0010133702 X X RATN-MUM-1008835040000003-CC-R
+        
+CADT0010133740 - 0010133740 X X RATN-MUM-1008835040000006-CC-M
+        
+CADT0010133741 - 0010133741 X X RATN-MUM-1008835040000006-CC-P
+        
+CADT0010133742 - 0010133742 X X RATN-MUM-1008835040000006-CC-R
+        
+CADT0010133760 - 0010133760 X X RATN-MUM-1008835040000004-CC-M
+CADT0010133761 - 0010133761 X X RATN-MUM-1008835040000004-CC-P
+        
+CADT0010133762 - 0010133762 X X RATN-MUM-1008835040000004-CC-R
+        
+CADT0010133780 - 0010133780 X X RATN-MUM-1008835040000005-CC-M
+        
+CADT0010133781 - 0010133781 X X RATN-MUM-1008835040000005-CC-P
+        
+CADT0010133782 - 0010133782 X X RATN-MUM-1008835040000005-CC-R
+        
+CADT0010133790 - 0010133790 X X RATN-MUM-1008835040000002-CC-M
+        
+CADT0010133791 - 0010133791 X X RATN-MUM-1008835040000002-CC-P
+        
+CADT0010133792 - 0010133792 X X RATN-MUM-1008835040000002-CC-R
+        
+CADT0010133850 - 0010133850 X X RATN-MUM-1008835040000007-CC-M
+        
+CADT0010133851 - 0010133851 X X RATN-MUM-1008835040000007-CC-P
+        
+CADT0010133852 - 0010133852 X X RATN-MUM-1008835040000007-CC-R
+        
+CADT0010133860 - 0010133860 X X CITI-MUM-0547347005-CC-M
+        
+CADT0010133861 - 0010133861 X X CITI-MUM-0547347005-CC-P
+        
+CADT0010133862 - 0010133862 X X CITI-MUM-0547347005-CC-R
+        
+CADT0010133880 - 0010133880 X X RBL PCFC A/C - M
+        
+CADT0010133881 - 0010133881 X X RBL PCFC A/C - P
+        
+CADT0010133882 - 0010133882 X X RBL PCFC A/C - R
+        
+CADT0010133890 - 0010133890 X X WCDL WITH RBL BANK - M
+        
+CADT0010133891 - 0010133891 X X WCDL WITH RBL BANK - P
+        
+CADT0010133892 - 0010133892 X X WCDL WITH RBL BANK - R
+        
+CADT0010134670 - 0010134670 X X HDFC-57500001723093-CC
+        
+CADT0010134671 - 0010134671 X X HDFC-57500001723093-CC-OUT
+        
+CADT0010134672 - 0010134672 X X HDFC-57500001723093-CC-IN
+        
+CADT0010134680 - 0010134680 X X HDFC-57500001752761-CC
+        
+CADT0010134681 - 0010134681 X X HDFC-57500001752761-CC-OUT
+        
+CADT0010134682 - 0010134682 X X HDFC-57500001752761-CC-IN
+        
+CADT0010134690 - 0010134690 X X AXIS-925030016004374 -CC
+        
+CADT0010134691 - 0010134691 X X AXIS-925030016004374 -CC-OUT
+        
+CADT0010134692 - 0010134692 X X AXIS-925030016004374 -CC-IN
+        
+CADT0010135610 - 0010135610 X X WCDL with RBL Bank
+        
+CADT0010135611 - 0010135611 X X WCDL with RBL Bank Out
+        
+CADT0010135612 - 0010135612 X X WCDL with RBL Bank IN
+        
+CADT0010135720 - 0010135720 X X HDFC 57500001593954-CC-
+        
+CADT0010135721 - 0010135721 X X HDFC 57500001593954-CC-Out
+        
+CADT0010135722 - 0010135722 X X HDFC 57500001593954-CC-In
+        
+CADT0010135730 - 0010135730 X X WCDL with HDFC Bank
+        
+CADT0010135731 - 0010135731 X X WCDL with HDFC Bank Out
+        
+CADT0010135732 - 0010135732 X X WCDL with HDFC Bank In
+        
+CADT0010135740 - 0010135740 X X WCDL with HSBC Bank
+        
+CADT0010135741 - 0010135741 X X WCDL with HSBC Bank -Out
+        
+CADT0010135742 - 0010135742 X X WCDL with HSBC Bank -In
+        
+CADT0010135750 - 0010135750 X X PCFC with ANZ Bank
+        
+CADT0010135751 - 0010135751 X X PCFC with ANZ Bank - Out
+        
+CADT0010135752 - 0010135752 X X PCFC with ANZ Bank - In
+        
+CADT0010135770 - 0010135770 X X ICICI 032305010995-CC-
+        
+CADT0010135771 - 0010135771 X X ICICI-032305010995-CC Out
+        
+CADT0010135772 - 0010135772 X X ICICI-032305010995-CC In
+        
+CADT0010135780 - 0010135780 X X WCDL with ICICI Bank
+        
+CADT0010135781 - 0010135781 X X WCDL with ICICI Bank - Out
+        
+CADT0010135782 - 0010135782 X X WCDL with ICICI Bank - In
+        
+CADT0010136920 - 0010136920 X X WCDL WITH AXIS BANK
+        
+CADT0010136921 - 0010136921 X X WCDL WITH AXIS BANK-OUT
+        
+CADT0010136922 - 0010136922 X X WCDL WITH AXIS BANK-IN
+        
+CADT0010136930 - 0010136930 X X WCDL WITH HDFC BANK
+        
+CADT0010136931 - 0010136931 X X WCDL WITH HDFC BANK-OUT
+        
+CADT0010136932 - 0010136932 X X WCDL WITH HDFC BANK-IN
+        
+CADT0010136940 - 0010136940 X X ANZ #Export Credit
+        
+CADT0010136941 - 0010136941 X X ANZ #Export Credit - Out
+        
+CADT0010136942 - 0010136942 X X ANZ #Export Credit - In
+        
+CADT0010136950 - 0010136950 X X WCDL with ANZ Bank
+        
+CADT0010136951 - 0010136951 X X WCDL with ANZ Bank - Out
+        
+CADT0010136952 - 0010136952 X X WCDL with ANZ Bank - In
+     
+     
+2020 Short term Indebtedness
+     
+2030 Current Maturities of Long-term Debt
+
+2040 Accounts Payable and Accrued Charges
+        
+        
+CADT0014004020 - 0014004020 X X PPL Prepayments
+        
+CADT0021000440 - 0021000440 X X Accrued Payroll
+        
+CADT0021000900 - 0021000900 X X Incentive Payable # Senior Director
+        
+CADT0021402000 - 0021402000 X X INCENTIVE PAYABLE - STAFF
+        
+CADT0021802300 - 0021802300 X X Employee Paid - Optional Life Insurance
+        
+CADT0023000502 - 0023000502 X X AP Trade manual
+        
+CADT0023008000 - 0023008000 X X AP - Trade
+        
+CADT0023008061 - 0023008061 X X Credit Card Payables Account
+        
+CADT0023200500 - 0023200500 X X AP Partner & Employee Expenses Control
+        
+CADT0023400505 - 0023400505 X X Account Payable - Payroll
+        
+CADT0023400508 - 0023400508 X X Accrued Pension
+        
+CADT0023400850 - 0023400850 X X Miscellaneous Payables - Subs
+        
+CADT0023603000 - 0023603000 X X Provident Fund - Employee Contribution
+        
+CADT0023603050 - 0023603050 X X Provident Fund - Employer Contribution
+        
+CADT0023806300 - 0023806300 X X Professional Tax - India
+        
+CADT0024401302 - 0024401302 X X PROVISION FOR LEAVE ENCASHMENT
+        
+CADT0024401303 - 0024401303 X X EXPAT PROVIDENT FUND PAYABLE#
+        
+CADT0024401304 - 0024401304 X X Provident Fund - Employee Voluntary Contribution
+        
+CADT0024402500 - 0024402500 X X NPS PAYABLE
+        
+CADT0024402501 - 0024402501 X X REPAYMENT OF CAPITAL CONTRIBUTION
+        
+CADT0024402502 - 0024402502 X X PROVISION FOR GRATUITY
+        
+CADT0024402503 - 0024402503 X X STIPEND  PAYABLE
+        
+CADT0024402504 - 0024402504 X X PROFESSION TAX PAYABLE - PROF
+        
+CADT0024402505 - 0024402505 X X PROFESSION TAX PAYABLE - NON PRF
+        
+CADT0024402506 - 0024402506 X X PENSION PAY TO PARTNER /SR. DIRECTORS
+        
+CADT0026008100 - 0026008100 X X Accrued Gratuity India
+     
+     
+2071 Accrued Professional Insurance
+     
+2072 Accrued Claims Reserve
+     
+   
+
+2090 Other Current Liabilities
+        
+        
+CADT0018400505 - 0018400505 X X DEPOSIT -  STAFF CAR
+        
+CADT0021000150 - 0021000150 X X Payroll Clearing - Trade Union Fees
+        
+CADT0023000151 - 0023000151 X X Accrued Interest Payable
+        
+CADT0023200006 - 0023200006 X X Payroll Clearing - Medical
+        
+CADT0023400535 - 0023400535 X X Accrued Expenses - Other
+        
+CADT0023400700 - 0023400700 X X Accrued Payables - Miscellaneous
+        
+CADT0023404900 - 0023404900 X X DONATION TO NGO
+        
+CADT0023407700 - 0023407700 X X Refyne Recovery Payable
+        
+CADT0023801500 - 0023801500 X X TDS PAYABLE - OTHER REMITTANCE
+        
+CADT0023801501 - 0023801501 X X TDS PAYABLE - BROKERAGE - NON CORPORATE
+        
+CADT0023801502 - 0023801502 X X TDS PAYABLE - PROF. FEES - CORPORATE
+        
+CADT0023801503 - 0023801503 X X TDS PAYABLE - PROF. FEES - NON CORPORATE
+        
+CADT0023801504 - 0023801504 X X TDS PAYABLE - CONTRACTORS - CORPORATE
+        
+CADT0023801505 - 0023801505 X X TDS PAYABLE - CONTRACTORS - NON CORPORATE
+        
+CADT0023801506 - 0023801506 X X TDS PAYABLE - RENT - NON CORPORATE
+        
+CADT0023801507 - 0023801507 X X TDS PAYABLE - SALARIES OF EMPLOYEES
+        
+CADT0023801508 - 0023801508 X X TDS PAYABLE - ADVERTISEMENTS - CORPORATE
+        
+CADT0023801509 - 0023801509 X X TDS PAYABLE - ADVERTISEMENTS - NON CORPORATE
+        
+CADT0023801510 - 0023801510 X X TDS PAYABLE - BROKERAGE - CORPORATE
+        
+CADT0023801511 - 0023801511 X X TDS PAYABLE - RENT - CORPORATE
+        
+CADT0023801512 - 0023801512 X X TDS PAYABLE - INTEREST-CORP
+        
+CADT0023801513 - 0023801513 X X TDS PAYABLE - INTEREST-NONCORP
+        
+CADT0023801514 - 0023801514 X X TDS PAYABLE - FCY REMITTANCE
+        
+CADT0023801517 - 0023801517 X X TDS - PURCHASE OF GOODS - CORP
+        
+CADT0023801518 - 0023801518 X X TDS - PURCHASE OF GOODS - NON-CORP
+        
+CADT0023801519 - 0023801519 X X TDS - BENEFITS/PERQUISITES-VENDOR-CORP
+        
+CADT0023801520 - 0023801520 X X TDS - BENEFITS/PERQUISITES-VENDOR-NCORP
+        
+CADT0023801521 - 0023801521 X X TDS PAYABLE - FCY REMITTANCE - DIVIDEND
+        
+CADT0023801522 - 0023801522 X X TDS PAYABLE ON DIVIDEND NON CORPORATE
+        
+CADT0023802000 - 0023802000 X X TDS ON PARTNER BENEFITS
+        
+CADT0023802001 - 0023802001 X X PARTNERS' CONTRIBUTION TOWARDS DIWALI GIFTS
+        
+CADT0024003550 - 0024003550 X X VAT payable
+CADT0024400401 - 0024400401 X X Advances Received - Client
+        
+CADT0024401102 - 0024401102 X X Rental deposits payable
+        
+CADT0024401300 - 0024401300 X X UNPAID CHEQUES
+        
+CADT0024401305 - 0024401305 X X INSURANCE CLAIMS RECEIVED
+        
+CADT0024401600 - 0024401600 X X Other Current Liabilities
+        
+CADT0024402509 - 0024402509 X X DIVIDEND PAYABLE
+        
+CADT0024403050 - 0024403050 X X Other Recoveries
+        
+CADT0024404700 - 0024404700 X X Payable To DSPIPL
+     
+     
+2093 Contract Liabilities / Deferred Revenue
+     
+2091 VAT Payables
+     
+2120 Long Term Debt
+     
+2130 Accrued Claims Reserve - Noncurrent
+     
+2150 Lease Liability
+     
+2180 Other Non-Current Liabilities
+  
+  
+   
+
+016  Minority Interests in Consolidated Subsidiary
+     
+     
+2500 Minority Interests in Consolidated Subsidiary
+  
+  
+   
+
+017  Partners' Equity - National Basis
+     
+     
+   
+
+3020 Amounts Invested by Partners
+        
+        
+CADT0031000600 - 0031000600 X X Paid-in Capital - Partner
+        
+CADT0031006500 - 0031006500 X X Capital A/C - Non Individual Partners(DILLP)
+        
+CADT0031006501 - 0031006501 X X Capital A/C - Non Individual Partners(DCII LLC-Dus
+        
+CADT0031006502 - 0031006502 X X Capital A/C - Non Individual Partners(DIASPL)
+        
+CADT0031006503 - 0031006503 X X Capital A/C - Non Individual Partners(DTTILLP)
+        
+CADT0031006504 - 0031006504 X X Capital A/C - Non Individual Partners(DSALLP)
+     
+     
+3040 Earnings Permanently Retained in Equity
+     
+   
+
+3051 Undist/Undrawn Earnings (retained # 12 months
+        
+        
+CADT0069003500 - 0069003500 X X RETAINED PROFIT/LOSS
+     
+     
+   
+
+3052 Undist/Undrawn Earnings (retained < 12 months
+        
+        
+CADT0031000403 - 0031000403 X X Capital Reserve - Corporate
+        
+CADT0031010720 - 0031010720 X X PPL Unrealised Profits
+        
+CADT0035003000 - 0035003000 X X General Reserve account
+     
+     
+3060 Accumulated Other Comprehensive Losses
+     
+   
+
+3070 Other Partner Related Financing
+        
+        
+CADT0018200800 - 0018200800 X X Partner Loans
+        
+CADT0023400514 - 0023400514 X X Account Payable - Salaries - Partner
+        
+CADT0024402508 - 0024402508 X X SR. DIRECTORS DEPOSITS
+        
+CADT0025000402 - 0025000402 X X Long Term Loans Payable - Equity Partner
+        
+CADT0025007000 - 0025007000 X X Loan A/C - Non Individual Partners (DILLP)
+        
+CADT0025007001 - 0025007001 X X Loan A/C - Non Individual Partners (DCII LLC-Dus)
+        
+CADT0025007002 - 0025007002 X X Loan A/C - Non Individual Partners (DIASPL)
+        
+CADT0025007003 - 0025007003 X X Loan A/C - Non Individual Partners (DTTILLP)
+        
+CADT0025007004 - 0025007004 X X Loan A/C - Non Individual Partners (DSALLP)
+        
+CADT0025411100 - 0025411100 X X ISSUED, SUBSCRIBED & PAID
+        
+CADT0025411101 - 0025411101 X X SHARE APPLICATION MONEY
+        
+CADT0025411102 - 0025411102 X X EQUITY SHARE CAPITAL- DSSILLP
+        
+CADT0025411103 - 0025411103 X X EQUITY SHARE CAPITAL- DTTILLP
+        
+CADT0025411104 - 0025411104 X X EQUITY SHARE CAPITAL- DGFAIPL
+        
+CADT0025411105 - 0025411105 X X PREFERENCE SHARE CAPITAL- DTTIPL
+        
+CADT0025411106 - 0025411106 X X PREFERENCE SHARE CAPITAL- DSSIPL
+        
+CADT0025411107 - 0025411107 X X COMPULSORY CONVERTIBLE DEBENTURES
+        
+CADT0025411108 - 0025411108 X X DEBENTURE APPLICATION MONEY
+        
+CADT0025412000 - 0025412000 X X EQUITY SHARE CAPITAL- DLPL
+        
+CADT0031000400 - 0031000400 X X Partners capital interest
+CADT0031000800 - 0031000800 X X Other capital
+        
+CADT0031010000 - 0031010000 X X Partner Current Accounts
+        
+CADT0031012000 - 0031012000 X X Current A/C - Non Individual Partners (DILLP)
+        
+CADT0031012001 - 0031012001 X X Current A/C - Non Individual Partners (DCII LLC-Du
+        
+CADT0031012002 - 0031012002 X X Current A/C - Non Individual Partners (DIASPL)
+        
+CADT0031012003 - 0031012003 X X Current A/C - Non Individual Partners (DTTILLP)
+        
+CADT0031012004 - 0031012004 X X Current A/C - Non Individual Partners (DSALLP)
+        
+CADT0033000300 - 0033000300 X X PTR Drawings - Current
+     
+     
+3080 Additional Voluntary Contribution
+  
+  
+   
+
+018  National Items
+     
+     
+3004 Prepaid/(Accrued) Partner Retirement Costs
+     
+3006 Prepaid/(Accrued) Corporate Taxes
+     
+3007 Partner Loans Receivable
+     
+3008 Partner Loans Payable
+     
+   
+
+3009 National Investments
+        
+        
+CADT0014603500 - 0014603500 X X PREF SHARE CAPITAL - DGFAIPL
+        
+CADT0014603501 - 0014603501 X X PREF SHARE CAPIPTAL - DASL MAURITIUS
+        
+CADT0018000700 - 0018000700 X X INVESTMENT IN OTHER BODY CORPO
+        
+CADT0018005050 - 0018005050 X X Investment - Subsidiaries
+        
+CADT0018006500 - 0018006500 X X Investment In DILLP (Capital)
+        
+CADT0018006501 - 0018006501 X X Investment In DILLP (Current)
+        
+CADT0018006502 - 0018006502 X X Investment In DILLP (Loan)
+        
+CADT0018006503 - 0018006503 X X Investment In DLLP (Capital)
+        
+CADT0018006504 - 0018006504 X X Investment In DLLP (Current)
+        
+CADT0018006505 - 0018006505 X X Investment In DLLP (Loan)
+        
+CADT0018006506 - 0018006506 X X Investment In DIGCLLP (Capital)
+        
+CADT0018006507 - 0018006507 X X Investment In DIGCLLP (Current)
+        
+CADT0018006508 - 0018006508 X X Investment In DIGCLLP (Loan)
+        
+CADT0024401307 - 0024401307 X X PROVISION FOR DIMINUTION IN VALUE OF INVESTMENTS
+     
+     
+3010 GAAP Adjustments
+     
+3014 Other National Assets/Liabilities
+  
+  
+   
+
+9991 Inter-entity Time Clearing
+     
+     
+CADT0041000001 - 0041000001 X X Internal CS Time Income
+     
+CADT0041000003 - 0041000003 X X Internal revenue between company codes
+     
+CADT0041000004 - 0041000004 X X Internal CS Expense Revenue
+     
+CADT0041000005 - 0041000005 X X Internal CS Expense Income
+     
+CADT0041000006 - 0041000006 X X Internal ADM Time Revenue
+     
+CADT0041000007 - 0041000007 X X Internal ADM Time Income
+     
+CADT0041000008 - 0041000008 X X Internal ADM Expense Revenue
+     
+CADT0041000009 - 0041000009 X X Internal ADM Expense Income
+     
+CADT0041000012 - 0041000012 X X Internal Other Revenue
+     
+CADT0041300110 - 0041300110 X X I/C Rev Offset
+     
+CADT0041300115 - 0041300115 X X IC Revenue Offset-OPE
+     
+CADT0041300140 - 0041300140 X X IC Revenue-OPE
+  
+  
+   
+
+9992 Invoice Clearing Account
+     
+     
+CADT0041300010 - 0041300010 X X Time WIP T/o
+     
+CADT0041300011 - 0041300011 X X Time WIP Variation
+     
+CADT0041300020 - 0041300020 X X Expense WIP T/o
+     
+CADT0041300021 - 0041300021 X X Expense WIP Offset
+     
+CADT0041300030 - 0041300030 X X Event WIP T/o
+     
+CADT0041300031 - 0041300031 X X Event WIP Variation
+     
+CADT0041300040 - 0041300040 X X ADM Time WIP T/o
+     
+CADT0041300041 - 0041300041 X X ADM Time WIP Offset
+     
+CADT0041300050 - 0041300050 X X ADM Expense T/o
+     
+CADT0041300051 - 0041300051 X X ADM Expense Offset
+
+9993 Settlement Clearing
+     
+     
+CADT0045000001 - 0045000001 X X Reimbursable - Other Expenses
+     
+CADT0045000002 - 0045000002 X X Reimbursable - Travel & Subsistence
+     
+CADT0045000003 - 0045000003 X X Reimbursable - Computer and Data Expenses
+     
+CADT0045000004 - 0045000004 X X Reimbursable - Emerging Markets Expenses
+     
+CADT0045000005 - 0045000005 X X Reimbursable - International Contractors
+     
+CADT0045000006 - 0045000006 X X Reimbursable - Meal Expenses
+     
+CADT0045000007 - 0045000007 X X Reimbursable - Freight Expenses
+     
+CADT0045000008 - 0045000008 X X Reimbursable - Telephone Expenses
+     
+CADT0045000009 - 0045000009 X X Reimbursable - Books & Publications
+     
+CADT0045000010 - 0045000010 X X Reimbursable - Travel Other Expenses
+     
+CADT0045000011 - 0045000011 X X Reimbursable - ADM Contractor Expenses
+     
+CADT0045000012 - 0045000012 X X Reimbursable - ADM Other Member Firm
+     
+CADT0045000013 - 0045000013 X X Reimbursable - Product Resale Expenses
+     
+CADT0045000014 - 0045000014 X X Reimbursable - Equip Other Expenses
+     
+CADT0045000015 - 0045000015 X X Reimbursable - Office Supply Expenses
+     
+CADT0045000016 - 0045000016 X X Reimbursable - Print Expenses
+     
+CADT0045000017 - 0045000017 X X Reimbursable - Training and Meeting Expenses
+     
+CADT0045000021 - 0045000021 X X Reimbursable - Subcontractor Fee
+     
+CADT0045000030 - 0045000030 X X Reimb # Agency # GST Flow Through
+     
+CADT0045000031 - 0045000031 X X Reimbursable - ADM Blocked Headcount
+     
+CADT0045000032 - 0045000032 X X Reimbursable - ADM Time & Materials
+     
+CADT0045000033 - 0045000033 X X Reimbursable - ADM Other Delivery Center
+     
+CADT0045002100 - 0045002100 X X Client disbursement - reimbursable amounts
+     
+CADT0055000001 - 0055000001 X X Reimbursed - Other Expenses
+     
+CADT0055000002 - 0055000002 X X Reimbursed - Travel & Subsistence
+     
+CADT0055000003 - 0055000003 X X Reimbursed - Computer and Data Expenses
+     
+CADT0055000004 - 0055000004 X X Reimbursed - Emerging Market Expenses
+     
+CADT0055000005 - 0055000005 X X Reimbursed - International Contractors
+     
+CADT0055000006 - 0055000006 X X Reimbursed - Meal Expenses
+     
+CADT0055000007 - 0055000007 X X Reimbursed - Freight Expenses
+     
+CADT0055000008 - 0055000008 X X Reimbursed - Telephone Expenses
+     
+CADT0055000009 - 0055000009 X X Reimbursed - Books & Publications
+     
+CADT0055000010 - 0055000010 X X Reimbursed - Travel Other Expenses
+     
+CADT0055000011 - 0055000011 X X Reimbursed - ADM Contractor Expenses
+     
+CADT0055000012 - 0055000012 X X Reimbursed - ADM Other Member Firm
+     
+CADT0055000013 - 0055000013 X X Reimbursed - Product Resale Expenses
+     
+CADT0055000014 - 0055000014 X X Reimbursed - Equip Other Expenses
+     
+CADT0055000015 - 0055000015 X X Reimbursed - Office Supply Expenses
+     
+CADT0055000016 - 0055000016 X X Reimbursed - Print Expenses
+     
+CADT0055000017 - 0055000017 X X Reimbursed - Training and Meeting Expenses
+     
+CADT0055000021 - 0055000021 X X Reimbursed - Subcontractor Fee
+     
+CADT0055000030 - 0055000030 X X Reimbursable # Agency # GST Flow Through
+     
+CADT0055000031 - 0055000031 X X Reimbursed - ADM Blocked Headcount
+     
+CADT0055000032 - 0055000032 X X Reimbursed - ADM Time & Materials
+     
+CADT0055000033 - 0055000033 X X Reimbursed - ADM Other Delivery Center
+     
+CADT0055002100 - 0055002100 X X Client disbursement - amount to be reimbursed
+  
+  
+   
+
+9994 Other Clearing
+     
+     
+CADT0050000010 - 0050000010 X X Cost of service
+     
+CADT0050000011 - 0050000011 X X Cost Of Service - Offset
+     
+CADT0051300120 - 0051300120 X X IC Expense-OPE
+     
+CADT0051300121 - 0051300121 X X IC Expense Offset-OPE
+     
+CADT0086000000 - 0086000000 X X Employees - Client Service
+     
+CADT0086000010 - 0086000010 X X IC clearing account_Employees CS
+     
+CADT0086000100 - 0086000100 X X Employees - Internal / Admin
+     
+CADT0086000110 - 0086000110 X X IC clearing account_Employees Internal
+     
+CADT0095510010 - 0095510010 X X Gross Revenue
+     
+CADT0095510020 - 0095510020 X X Gross Revenue Offset
+     
+CADT0095510030 - 0095510030 X X Gross Revenue Administrative
+     
+CADT0095520010 - 0095520010 X X Lump sum Value Adjustment - Statistical
+     
+CADT0095520030 - 0095520030 X X Lump Sum Value Adjustment Offset - Statistical
+     
+CADT0095520080 - 0095520080 X X LTD Value Adjustment Converted WIP Time CA -sta
+CADT0095520090 - 0095520090 X X LTD Value Adj Converted WIP Time CA Offset -sta
+  
+  
+1    No text exists                                 Fin. Statement Notes   
+  
+2    No text exists                                 Not assigned           
+  
+3    No text exists                                 P+L result             
+  
+4    No text exists                                 Net result: loss       
+  
+5    No text exists                                 Net result: profit     
+  
+6    No text exists                                 Liabilities and Equity 
+  
+7    No text exists                                 Assets

@@ -1,0 +1,92 @@
+IN02 Deloitte India - Accrual
+
+100 Balance Sheet
+
+001 Cash and Bank balances
+1111 Cash on hand
+1112 In current account
+1113 Fixed deposit accounts
+
+002 Mutual Fund Investments
+1341 Investments in mutual funds
+
+003 Loans and advances and other assets
+1123 GST recoverable
+1163 Client reimbursable
+1164 Advances recoverable in cash or in kind or fo
+1166 Premises and other deposits
+IC
+Dues from other firms (net)
+
+004 Current and other liabilities and provisions
+2010 Deposits
+2000 Repayment of Capital Contribution
+2115 Advance received from clients
+2117 Statutory and other liabilities
+1167 Provision for tax (net of advance tax)
+IC1
+Dues to other firms (net)
+
+200 Profit & Loss
+
+005 Fees
+005.1 Professional fees
+005.2 Less: Payments under clause 10 of the Partner
+
+006 Other income
+4200A Insurance claims received
+4211
+Interest income from bank
+4205
+Gain on mutual fund redemption
+4200
+Miscellaneous income
+4200B Foreign exchange gain
+
+007 Personnel costs
+5110 Salaries and bonus
+5111 Contribution to provident and other funds
+5112 Staff welfare expenses
+
+008 Establishment costs
+5120 Legal and other charges
+5121 Subscription and technology fees
+5122 Books & Periodicals
+5123 Facilities and operating expenses
+5124 Insurance charges
+5125 Computer expenses
+5126 Printing and stationery
+5127 Travelling and subsistence
+5128 Telecommunications
+5129 Training expenses
+5151 Provision for deposit - write off
+5170 Occupancy charges
+5171 Repairs and maintenance
+5172 Postage & courier charges
+5130 Other costs
+
+009 Interest and finance charges
+5241 Interest on cash credit account
+5242 Bank charges
+5243 Interest others
+1
+No text exists
+Fin. Statement Notes
+2
+No text exists
+Not assigned
+3
+No text exists
+P+L result
+4
+No text exists
+Net result: loss
+5
+No text exists
+Net result: profit
+6
+No text exists
+Liabilities and Equity
+7
+No text exists
+Assets
