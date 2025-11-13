@@ -10,6 +10,7 @@ the converted Excel file.
 from flask import Flask, render_template, request, send_file, flash, redirect, url_for, make_response
 import os
 import secrets
+from io import BytesIO
 from werkzeug.utils import secure_filename
 from convert_clean import convert_pdf_to_excel
 
@@ -17,7 +18,8 @@ app = Flask(__name__)
 app.secret_key = secrets.token_hex(16)
 
 # Configuration
-UPLOAD_FOLDER = 'uploads'
+# Use /tmp for serverless environments like Vercel
+UPLOAD_FOLDER = os.path.join('/tmp', 'uploads') if os.path.exists('/tmp') else 'uploads'
 ALLOWED_EXTENSIONS = {'pdf'}
 MAX_FILE_SIZE = 50 * 1024 * 1024  # 50 MB
 
@@ -82,9 +84,17 @@ def index():
                     os.remove(pdf_path)
 
                 if success:
-                    # Return the Excel file for download
+                    # Read the Excel file into memory for serverless environments
+                    with open(excel_path, 'rb') as f:
+                        excel_data = f.read()
+
+                    # Clean up the Excel file
+                    if os.path.exists(excel_path):
+                        os.remove(excel_path)
+
+                    # Create response with file data
                     response = make_response(send_file(
-                        excel_path,
+                        BytesIO(excel_data),
                         as_attachment=True,
                         download_name=f"{base_name}.xlsx",
                         mimetype='application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
